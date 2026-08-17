@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "revision": 1,
+  "status": "draft",
+  "updated_at": "2026-07-18T13:14:22Z",
+  "id": "node_example",
+  "name": "示例知识点",
+  "aliases": [
+    "示例别名1"
+  ],
+  "abstract": "这是一个示例知识点，用于展示知识点节点 JSON 的基本结构（限制长度用于embadding模型处理）",
+  "difficulty": 0,
+  "importance": 0,
+  "keywords": [
+    "示例",
+    "知识点",
+    "基础概念"
+  ],
+  "tags": [
+    "基础知识",
+    "入门"
+  ],
+  "documents": [
+    {
+      "document_id": "doc_example",
+      "title": "示例标题 1",
+      "abstract": "该材料主要介绍示例知识点的基本定义。"
+    }
+  ],
+  "pictures": [
+    {
+      "picture_id": "pic_example",
+      "title": "示例知识结构图",
+      "description": "用于说明该知识点内部概念之间的关系。"
+    }
+  ],
+  "test": [
+    {
+      "test_id": "test_example",
+      "style": "基础示例",
+      "description": "展示该知识点在简单场景中的使用方式。"
+    }
+  ],
+  "assessment": {
+    "learning_objectives": [
+      "能够说明该知识点的基本定义",
+      "能够识别该知识点的典型使用场景",
+      "能够完成一个简单示例"
+    ]
+  }
+}

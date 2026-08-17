@@ -1,0 +1,160 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://go-engineer.local/schemas/node.schema.json",
+  "title": "Knowledge Node",
+  "description": "Schema for JSON files under data/knowledge_base/nodes/.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version", "revision", "status", "updated_at",
+    "id",
+    "name",
+    "aliases",
+    "abstract",
+    "difficulty",
+    "importance",
+    "keywords",
+    "tags",
+    "documents",
+    "pictures",
+    "test",
+    "assessment"
+  ],
+  "properties": {
+    "schema_version": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+$" },
+    "revision": { "type": "integer", "minimum": 0 },
+    "status": { "enum": ["draft", "reviewed", "published", "deprecated"] },
+    "updated_at": { "type": "string", "format": "date-time" },
+    "id": {
+      "$ref": "#/$defs/non_empty_string"
+    },
+    "name": {
+      "$ref": "#/$defs/non_empty_string"
+    },
+    "aliases": {
+      "$ref": "#/$defs/string_list"
+    },
+    "abstract": {
+      "$ref": "#/$defs/non_empty_string"
+    },
+    "difficulty": {
+      "type": "number",
+      "minimum": 0
+    },
+    "importance": {
+      "type": "number",
+      "minimum": 0
+    },
+    "keywords": {
+      "$ref": "#/$defs/string_list"
+    },
+    "tags": {
+      "$ref": "#/$defs/string_list"
+    },
+    "documents": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/node_document_ref"
+      }
+    },
+    "pictures": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/node_picture_ref"
+      }
+    },
+    "test": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/node_test_ref"
+      }
+    },
+    "assessment": {
+      "$ref": "#/$defs/node_assessment"
+    }
+  },
+  "$defs": {
+    "non_empty_string": {
+      "type": "string",
+      "minLength": 1
+    },
+    "string_list": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/non_empty_string"
+      }
+    },
+    "node_document_ref": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "document_id",
+        "title",
+        "abstract"
+      ],
+      "properties": {
+        "document_id": {
+          "$ref": "#/$defs/non_empty_string"
+        },
+        "title": {
+          "$ref": "#/$defs/non_empty_string"
+        },
+        "abstract": {
+          "$ref": "#/$defs/non_empty_string"
+        }
+      }
+    },
+    "node_picture_ref": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "picture_id",
+        "title",
+        "description"
+      ],
+      "properties": {
+        "picture_id": {
+          "$ref": "#/$defs/non_empty_string"
+        },
+        "title": {
+          "$ref": "#/$defs/non_empty_string"
+        },
+        "description": {
+          "$ref": "#/$defs/non_empty_string"
+        }
+      }
+    },
+    "node_test_ref": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "test_id",
+        "style",
+        "description"
+      ],
+      "properties": {
+        "test_id": {
+          "$ref": "#/$defs/non_empty_string"
+        },
+        "style": {
+          "$ref": "#/$defs/non_empty_string"
+        },
+        "description": {
+          "$ref": "#/$defs/non_empty_string"
+        }
+      }
+    },
+    "node_assessment": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "learning_objectives"
+      ],
+      "properties": {
+        "learning_objectives": {
+          "$ref": "#/$defs/string_list"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "revision": 0,
+  "status": "draft",
+  "updated_at": "2026-07-18T00:00:00Z",
+  "test_id": "test_example",
+  "title": "示例文件",
+  "item": [
+    "测试内容1",
+    "测试内容2"
+  ],
+  "requirement": [
+    "测试标准1",
+    "测试标准2"
+  ]
+}

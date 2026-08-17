@@ -1,0 +1,11 @@
+{
+  "schema_version": "1.0",
+  "revision": 0,
+  "status": "draft",
+  "updated_at": "2026-07-18T00:00:00Z",
+  "picture_id": "pic_example",
+  "title": "示例文件",
+  "link": "图床链接",
+  "description": "图片内容详细描述",
+  "application": "图片适用情况说明"
+}

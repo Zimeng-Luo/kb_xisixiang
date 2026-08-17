@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://go-engineer.local/schemas/dependence_edge.schema.json",
+  "title": "Dependence Edge",
+  "description": "Schema for JSON files under data/knowledge_base/edges/dependence/.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version", "revision", "status", "updated_at",
+    "dependence_id",
+    "income",
+    "outcome",
+    "requirement"
+  ],
+  "properties": {
+    "schema_version": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+$" },
+    "revision": { "type": "integer", "minimum": 0 },
+    "status": { "enum": ["draft", "reviewed", "published", "deprecated"] },
+    "updated_at": { "type": "string", "format": "date-time" },
+    "dependence_id": {
+      "$ref": "#/$defs/non_empty_string"
+    },
+    "income": {
+      "$ref": "#/$defs/non_empty_string"
+    },
+    "outcome": {
+      "$ref": "#/$defs/non_empty_string"
+    },
+    "requirement": {
+      "type": "string",
+      "pattern": "^(0|0\\.[0-9]+|1(?:\\.0+)?)$"
+    }
+  },
+  "$defs": {
+    "non_empty_string": {
+      "type": "string",
+      "minLength": 1
+    }
+  }
+}

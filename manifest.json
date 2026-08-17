@@ -1,0 +1,13 @@
+{
+  "indexes": {
+    "built_at": "2026-08-15T16:18:49Z",
+    "built_from_revision": 409,
+    "source_fingerprint": "8b4920604fa7a4aa2a2c27cffab1fae606815d9b5c71e2996d8b764d27342b0a",
+    "status": "current"
+  },
+  "manifest_version": "1.0",
+  "schema_version": "1.0",
+  "snapshot_id": "kb-merge-407",
+  "source_revision": 409,
+  "status": "draft"
+}

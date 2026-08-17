@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "revision": 0,
+  "status": "draft",
+  "updated_at": "2026-07-18T00:00:00Z",
+  "id": "node_example_related",
+  "name": "示例关联知识点",
+  "aliases": [],
+  "abstract": "这是一个仅用于演示节点关系和索引方向的结构示例，不代表已收集的权威知识内容。",
+  "difficulty": 1,
+  "importance": 1,
+  "keywords": [
+    "示例",
+    "关联"
+  ],
+  "tags": [
+    "示例数据"
+  ],
+  "documents": [],
+  "pictures": [],
+  "test": [],
+  "assessment": {
+    "learning_objectives": [
+      "能够识别知识节点之间的示例关系"
+    ]
+  }
+}

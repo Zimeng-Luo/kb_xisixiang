@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://go-engineer.local/schemas/knowledge_base.schema.json",
+  "title": "Knowledge Base Data File",
+  "description": "Unified entry schema for data/knowledge_base JSON files, excluding number_count.json and files under indexes/.",
+  "oneOf": [
+    {
+      "$ref": "schemas/node.schema.json"
+    },
+    {
+      "$ref": "schemas/dependence_edge.schema.json"
+    },
+    {
+      "$ref": "schemas/other_edge.schema.json"
+    },
+    {
+      "$ref": "schemas/document_material.schema.json"
+    },
+    {
+      "$ref": "schemas/picture_material.schema.json"
+    },
+    {
+      "$ref": "schemas/test_material.schema.json"
+    }
+  ]
+}

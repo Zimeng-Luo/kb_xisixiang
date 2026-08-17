@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://go-engineer.local/schemas/test_material.schema.json",
+  "title": "Test Material",
+  "description": "Schema for JSON files under data/knowledge_base/materials/test/.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version", "revision", "status", "updated_at",
+    "test_id",
+    "title",
+    "item",
+    "requirement"
+  ],
+  "properties": {
+    "schema_version": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+$" },
+    "revision": { "type": "integer", "minimum": 0 },
+    "status": { "enum": ["draft", "reviewed", "published", "deprecated"] },
+    "updated_at": { "type": "string", "format": "date-time" },
+    "test_id": {
+      "$ref": "#/$defs/non_empty_string"
+    },
+    "title": {
+      "$ref": "#/$defs/non_empty_string"
+    },
+    "item": {
+      "$ref": "#/$defs/string_list"
+    },
+    "requirement": {
+      "$ref": "#/$defs/string_list"
+    }
+  },
+  "$defs": {
+    "non_empty_string": {
+      "type": "string",
+      "minLength": 1
+    },
+    "string_list": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/non_empty_string"
+      }
+    }
+  }
+}

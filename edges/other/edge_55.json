@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "revision": 1,
+  "status": "draft",
+  "updated_at": "2026-08-15T16:18:49Z",
+  "edge_id": "edge_55",
+  "income": "node_xy0804",
+  "outcome": "node_xy1203",
+  "relation": "COMPOSES"
+}

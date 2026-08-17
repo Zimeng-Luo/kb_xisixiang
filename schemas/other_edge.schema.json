@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://go-engineer.local/schemas/other_edge.schema.json",
+  "title": "Other Edge",
+  "description": "Schema for JSON files under data/knowledge_base/edges/other/.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version", "revision", "status", "updated_at",
+    "edge_id",
+    "income",
+    "outcome",
+    "relation"
+  ],
+  "properties": {
+    "schema_version": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+$" },
+    "revision": { "type": "integer", "minimum": 0 },
+    "status": { "enum": ["draft", "reviewed", "published", "deprecated"] },
+    "updated_at": { "type": "string", "format": "date-time" },
+    "edge_id": {
+      "$ref": "#/$defs/non_empty_string"
+    },
+    "income": {
+      "$ref": "#/$defs/non_empty_string"
+    },
+    "outcome": {
+      "$ref": "#/$defs/non_empty_string"
+    },
+    "relation": {
+      "type": "string",
+      "enum": [
+        "COMPOSES",
+        "APPLIES",
+        "RESEMBLES",
+        "CONTRASTS"
+      ],
+      "description": "COMPOSES: 组成; APPLIES: 应用; RESEMBLES: 相似; CONTRASTS: 对比."
+    }
+  },
+  "$defs": {
+    "non_empty_string": {
+      "type": "string",
+      "minLength": 1
+    }
+  }
+}

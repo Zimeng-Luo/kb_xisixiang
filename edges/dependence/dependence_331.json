@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "revision": 1,
+  "status": "draft",
+  "updated_at": "2026-08-15T16:18:49Z",
+  "dependence_id": "dependence_331",
+  "income": "node_1608",
+  "outcome": "node_1609",
+  "requirement": "0.6"
+}

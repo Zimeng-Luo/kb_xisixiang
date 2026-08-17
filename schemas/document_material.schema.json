@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://go-engineer.local/schemas/document_material.schema.json",
+  "title": "Document Material",
+  "description": "Schema for JSON files under data/knowledge_base/materials/documents/.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version", "revision", "status", "updated_at",
+    "document_id",
+    "title",
+    "content"
+  ],
+  "properties": {
+    "schema_version": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+$" },
+    "revision": { "type": "integer", "minimum": 0 },
+    "status": { "enum": ["draft", "reviewed", "published", "deprecated"] },
+    "updated_at": { "type": "string", "format": "date-time" },
+    "document_id": {
+      "$ref": "#/$defs/non_empty_string"
+    },
+    "title": {
+      "$ref": "#/$defs/non_empty_string"
+    },
+    "content": {
+      "$ref": "#/$defs/non_empty_string"
+    }
+  },
+  "$defs": {
+    "non_empty_string": {
+      "type": "string",
+      "minLength": 1
+    }
+  }
+}

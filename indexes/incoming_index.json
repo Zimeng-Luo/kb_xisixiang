@@ -1,0 +1,845 @@
+{
+  "node_0001": [],
+  "node_0002": [
+    "dependence_1"
+  ],
+  "node_0003": [
+    "dependence_2",
+    "dependence_6"
+  ],
+  "node_0004": [
+    "dependence_24",
+    "dependence_3"
+  ],
+  "node_0005": [
+    "dependence_4",
+    "dependence_42"
+  ],
+  "node_0006": [
+    "dependence_43",
+    "dependence_5",
+    "edge_37"
+  ],
+  "node_0101": [
+    "dependence_25",
+    "dependence_44",
+    "dependence_7"
+  ],
+  "node_0102": [
+    "dependence_45"
+  ],
+  "node_0103": [
+    "dependence_46",
+    "dependence_53"
+  ],
+  "node_0104": [
+    "dependence_47",
+    "dependence_54"
+  ],
+  "node_0105": [
+    "dependence_48",
+    "dependence_55"
+  ],
+  "node_0106": [
+    "dependence_49",
+    "dependence_56"
+  ],
+  "node_0107": [
+    "dependence_50",
+    "dependence_57"
+  ],
+  "node_0108": [
+    "dependence_51",
+    "dependence_58"
+  ],
+  "node_0109": [
+    "dependence_52",
+    "dependence_59",
+    "edge_38"
+  ],
+  "node_0201": [
+    "dependence_26",
+    "dependence_60",
+    "dependence_8"
+  ],
+  "node_0202": [
+    "dependence_61"
+  ],
+  "node_0203": [
+    "dependence_62",
+    "dependence_70"
+  ],
+  "node_0204": [
+    "dependence_63",
+    "dependence_71"
+  ],
+  "node_0205": [
+    "dependence_64",
+    "dependence_72"
+  ],
+  "node_0206": [
+    "dependence_65",
+    "dependence_73"
+  ],
+  "node_0207": [
+    "dependence_66",
+    "dependence_74"
+  ],
+  "node_0208": [
+    "dependence_67",
+    "dependence_75"
+  ],
+  "node_0209": [
+    "dependence_68",
+    "dependence_76"
+  ],
+  "node_0210": [
+    "dependence_69",
+    "dependence_77",
+    "edge_39"
+  ],
+  "node_0301": [
+    "dependence_27",
+    "dependence_78",
+    "dependence_9",
+    "edge_4",
+    "edge_58",
+    "edge_6"
+  ],
+  "node_0302": [
+    "dependence_79"
+  ],
+  "node_0303": [
+    "dependence_80",
+    "dependence_87"
+  ],
+  "node_0304": [
+    "dependence_81",
+    "dependence_88"
+  ],
+  "node_0305": [
+    "dependence_82",
+    "dependence_89"
+  ],
+  "node_0306": [
+    "dependence_83",
+    "dependence_90"
+  ],
+  "node_0307": [
+    "dependence_84",
+    "dependence_91"
+  ],
+  "node_0308": [
+    "dependence_85",
+    "dependence_92"
+  ],
+  "node_0309": [
+    "dependence_86",
+    "dependence_93",
+    "edge_40"
+  ],
+  "node_0401": [
+    "dependence_10",
+    "dependence_28",
+    "dependence_94",
+    "edge_1",
+    "edge_2",
+    "edge_7",
+    "edge_8"
+  ],
+  "node_0402": [
+    "dependence_95"
+  ],
+  "node_0403": [
+    "dependence_103",
+    "dependence_96"
+  ],
+  "node_0404": [
+    "dependence_104",
+    "dependence_97"
+  ],
+  "node_0405": [
+    "dependence_105",
+    "dependence_98"
+  ],
+  "node_0406": [
+    "dependence_106",
+    "dependence_99"
+  ],
+  "node_0407": [
+    "dependence_100",
+    "dependence_107"
+  ],
+  "node_0408": [
+    "dependence_101",
+    "dependence_108"
+  ],
+  "node_0409": [
+    "dependence_102",
+    "dependence_109",
+    "edge_41"
+  ],
+  "node_0501": [
+    "dependence_11",
+    "dependence_110",
+    "dependence_29",
+    "edge_10",
+    "edge_9"
+  ],
+  "node_0502": [
+    "dependence_111"
+  ],
+  "node_0503": [
+    "dependence_112",
+    "dependence_119"
+  ],
+  "node_0504": [
+    "dependence_113",
+    "dependence_120"
+  ],
+  "node_0505": [
+    "dependence_114",
+    "dependence_121"
+  ],
+  "node_0506": [
+    "dependence_115",
+    "dependence_122"
+  ],
+  "node_0507": [
+    "dependence_116",
+    "dependence_123"
+  ],
+  "node_0508": [
+    "dependence_117",
+    "dependence_124"
+  ],
+  "node_0509": [
+    "dependence_118",
+    "dependence_125",
+    "edge_42"
+  ],
+  "node_0601": [
+    "dependence_12",
+    "dependence_126",
+    "dependence_30",
+    "edge_11",
+    "edge_12",
+    "edge_3",
+    "edge_5",
+    "edge_62"
+  ],
+  "node_0602": [
+    "dependence_127"
+  ],
+  "node_0603": [
+    "dependence_128",
+    "dependence_139"
+  ],
+  "node_0604": [
+    "dependence_129",
+    "dependence_140"
+  ],
+  "node_0605": [
+    "dependence_130",
+    "dependence_141"
+  ],
+  "node_0606": [
+    "dependence_131",
+    "dependence_142"
+  ],
+  "node_0607": [
+    "dependence_132",
+    "dependence_143"
+  ],
+  "node_0608": [
+    "dependence_133",
+    "dependence_144"
+  ],
+  "node_0609": [
+    "dependence_134",
+    "dependence_145"
+  ],
+  "node_0610": [
+    "dependence_135",
+    "dependence_146"
+  ],
+  "node_0611": [
+    "dependence_136",
+    "dependence_147"
+  ],
+  "node_0612": [
+    "dependence_137",
+    "dependence_148"
+  ],
+  "node_0613": [
+    "dependence_138",
+    "dependence_149",
+    "edge_43"
+  ],
+  "node_0701": [
+    "dependence_13",
+    "dependence_150",
+    "dependence_31",
+    "edge_13",
+    "edge_15",
+    "edge_60"
+  ],
+  "node_0702": [
+    "dependence_151"
+  ],
+  "node_0703": [
+    "dependence_152",
+    "dependence_162"
+  ],
+  "node_0704": [
+    "dependence_153",
+    "dependence_163"
+  ],
+  "node_0705": [
+    "dependence_154",
+    "dependence_164"
+  ],
+  "node_0706": [
+    "dependence_155",
+    "dependence_165"
+  ],
+  "node_0707": [
+    "dependence_156",
+    "dependence_166"
+  ],
+  "node_0708": [
+    "dependence_157",
+    "dependence_167"
+  ],
+  "node_0709": [
+    "dependence_158",
+    "dependence_168"
+  ],
+  "node_0710": [
+    "dependence_159",
+    "dependence_169"
+  ],
+  "node_0711": [
+    "dependence_160",
+    "dependence_170"
+  ],
+  "node_0712": [
+    "dependence_161",
+    "dependence_171",
+    "edge_44"
+  ],
+  "node_0801": [
+    "dependence_14",
+    "dependence_172",
+    "dependence_32",
+    "edge_17",
+    "edge_18",
+    "edge_57",
+    "edge_63"
+  ],
+  "node_0802": [
+    "dependence_173"
+  ],
+  "node_0803": [
+    "dependence_174",
+    "dependence_184"
+  ],
+  "node_0804": [
+    "dependence_175",
+    "dependence_185"
+  ],
+  "node_0805": [
+    "dependence_176",
+    "dependence_186"
+  ],
+  "node_0806": [
+    "dependence_177",
+    "dependence_187"
+  ],
+  "node_0807": [
+    "dependence_178",
+    "dependence_188"
+  ],
+  "node_0808": [
+    "dependence_179",
+    "dependence_189"
+  ],
+  "node_0809": [
+    "dependence_180",
+    "dependence_190"
+  ],
+  "node_0810": [
+    "dependence_181",
+    "dependence_191"
+  ],
+  "node_0811": [
+    "dependence_182",
+    "dependence_192"
+  ],
+  "node_0812": [
+    "dependence_183",
+    "dependence_193",
+    "edge_45"
+  ],
+  "node_0901": [
+    "dependence_15",
+    "dependence_194",
+    "dependence_33",
+    "edge_19",
+    "edge_20",
+    "edge_65"
+  ],
+  "node_0902": [
+    "dependence_195"
+  ],
+  "node_0903": [
+    "dependence_196",
+    "dependence_203"
+  ],
+  "node_0904": [
+    "dependence_197",
+    "dependence_204"
+  ],
+  "node_0905": [
+    "dependence_198",
+    "dependence_205"
+  ],
+  "node_0906": [
+    "dependence_199",
+    "dependence_206"
+  ],
+  "node_0907": [
+    "dependence_200",
+    "dependence_207"
+  ],
+  "node_0908": [
+    "dependence_201",
+    "dependence_208"
+  ],
+  "node_0909": [
+    "dependence_202",
+    "dependence_209",
+    "edge_46"
+  ],
+  "node_1001": [
+    "dependence_16",
+    "dependence_210",
+    "dependence_34",
+    "edge_21",
+    "edge_22",
+    "edge_59"
+  ],
+  "node_1002": [
+    "dependence_211"
+  ],
+  "node_1003": [
+    "dependence_212",
+    "dependence_222"
+  ],
+  "node_1004": [
+    "dependence_213",
+    "dependence_223"
+  ],
+  "node_1005": [
+    "dependence_214",
+    "dependence_224"
+  ],
+  "node_1006": [
+    "dependence_215",
+    "dependence_225"
+  ],
+  "node_1007": [
+    "dependence_216",
+    "dependence_226"
+  ],
+  "node_1008": [
+    "dependence_217",
+    "dependence_227"
+  ],
+  "node_1009": [
+    "dependence_218",
+    "dependence_228"
+  ],
+  "node_1010": [
+    "dependence_219",
+    "dependence_229"
+  ],
+  "node_1011": [
+    "dependence_220",
+    "dependence_230"
+  ],
+  "node_1012": [
+    "dependence_221",
+    "dependence_231",
+    "edge_47"
+  ],
+  "node_1101": [
+    "dependence_17",
+    "dependence_232",
+    "dependence_35",
+    "edge_23",
+    "edge_24",
+    "edge_66"
+  ],
+  "node_1102": [
+    "dependence_233"
+  ],
+  "node_1103": [
+    "dependence_234",
+    "dependence_242"
+  ],
+  "node_1104": [
+    "dependence_235",
+    "dependence_243"
+  ],
+  "node_1105": [
+    "dependence_236",
+    "dependence_244"
+  ],
+  "node_1106": [
+    "dependence_237",
+    "dependence_245"
+  ],
+  "node_1107": [
+    "dependence_238",
+    "dependence_246"
+  ],
+  "node_1108": [
+    "dependence_239",
+    "dependence_247"
+  ],
+  "node_1109": [
+    "dependence_240",
+    "dependence_248"
+  ],
+  "node_1110": [
+    "dependence_241",
+    "dependence_249",
+    "edge_48"
+  ],
+  "node_1201": [
+    "dependence_18",
+    "dependence_250",
+    "dependence_36",
+    "edge_14",
+    "edge_16",
+    "edge_25",
+    "edge_26",
+    "edge_64"
+  ],
+  "node_1202": [
+    "dependence_251"
+  ],
+  "node_1203": [
+    "dependence_252",
+    "dependence_259"
+  ],
+  "node_1204": [
+    "dependence_253",
+    "dependence_260"
+  ],
+  "node_1205": [
+    "dependence_254",
+    "dependence_261"
+  ],
+  "node_1206": [
+    "dependence_255",
+    "dependence_262"
+  ],
+  "node_1207": [
+    "dependence_256",
+    "dependence_263"
+  ],
+  "node_1208": [
+    "dependence_257",
+    "dependence_264"
+  ],
+  "node_1209": [
+    "dependence_258",
+    "dependence_265",
+    "edge_49"
+  ],
+  "node_1301": [
+    "dependence_19",
+    "dependence_266",
+    "dependence_37",
+    "edge_27",
+    "edge_28"
+  ],
+  "node_1302": [
+    "dependence_267"
+  ],
+  "node_1303": [
+    "dependence_268",
+    "dependence_275"
+  ],
+  "node_1304": [
+    "dependence_269",
+    "dependence_276"
+  ],
+  "node_1305": [
+    "dependence_270",
+    "dependence_277"
+  ],
+  "node_1306": [
+    "dependence_271",
+    "dependence_278"
+  ],
+  "node_1307": [
+    "dependence_272",
+    "dependence_279"
+  ],
+  "node_1308": [
+    "dependence_273",
+    "dependence_280"
+  ],
+  "node_1309": [
+    "dependence_274",
+    "dependence_281",
+    "edge_50"
+  ],
+  "node_1401": [
+    "dependence_20",
+    "dependence_282",
+    "dependence_38",
+    "edge_29",
+    "edge_30"
+  ],
+  "node_1402": [
+    "dependence_283"
+  ],
+  "node_1403": [
+    "dependence_284",
+    "dependence_291"
+  ],
+  "node_1404": [
+    "dependence_285",
+    "dependence_292"
+  ],
+  "node_1405": [
+    "dependence_286",
+    "dependence_293"
+  ],
+  "node_1406": [
+    "dependence_287",
+    "dependence_294"
+  ],
+  "node_1407": [
+    "dependence_288",
+    "dependence_295"
+  ],
+  "node_1408": [
+    "dependence_289",
+    "dependence_296"
+  ],
+  "node_1409": [
+    "dependence_290",
+    "dependence_297",
+    "edge_51"
+  ],
+  "node_1501": [
+    "dependence_21",
+    "dependence_298",
+    "dependence_39",
+    "edge_31",
+    "edge_32",
+    "edge_61"
+  ],
+  "node_1502": [
+    "dependence_299"
+  ],
+  "node_1503": [
+    "dependence_300",
+    "dependence_307"
+  ],
+  "node_1504": [
+    "dependence_301",
+    "dependence_308"
+  ],
+  "node_1505": [
+    "dependence_302",
+    "dependence_309"
+  ],
+  "node_1506": [
+    "dependence_303",
+    "dependence_310"
+  ],
+  "node_1507": [
+    "dependence_304",
+    "dependence_311"
+  ],
+  "node_1508": [
+    "dependence_305",
+    "dependence_312"
+  ],
+  "node_1509": [
+    "dependence_306",
+    "dependence_313",
+    "edge_52"
+  ],
+  "node_1601": [
+    "dependence_22",
+    "dependence_314",
+    "dependence_40",
+    "edge_33",
+    "edge_34",
+    "edge_67"
+  ],
+  "node_1602": [
+    "dependence_315"
+  ],
+  "node_1603": [
+    "dependence_316",
+    "dependence_325"
+  ],
+  "node_1604": [
+    "dependence_317",
+    "dependence_326"
+  ],
+  "node_1605": [
+    "dependence_318",
+    "dependence_327"
+  ],
+  "node_1606": [
+    "dependence_319",
+    "dependence_328"
+  ],
+  "node_1607": [
+    "dependence_320",
+    "dependence_329"
+  ],
+  "node_1608": [
+    "dependence_321",
+    "dependence_330"
+  ],
+  "node_1609": [
+    "dependence_322",
+    "dependence_331"
+  ],
+  "node_1610": [
+    "dependence_323",
+    "dependence_332"
+  ],
+  "node_1611": [
+    "dependence_324",
+    "dependence_333",
+    "edge_53"
+  ],
+  "node_1701": [
+    "dependence_23",
+    "dependence_334",
+    "dependence_41",
+    "edge_35",
+    "edge_36"
+  ],
+  "node_1702": [
+    "dependence_335"
+  ],
+  "node_1703": [
+    "dependence_336",
+    "dependence_348"
+  ],
+  "node_1704": [
+    "dependence_337",
+    "dependence_349"
+  ],
+  "node_1705": [
+    "dependence_338",
+    "dependence_350"
+  ],
+  "node_1706": [
+    "dependence_339",
+    "dependence_351"
+  ],
+  "node_1707": [
+    "dependence_340",
+    "dependence_352"
+  ],
+  "node_1708": [
+    "dependence_341",
+    "dependence_353"
+  ],
+  "node_1709": [
+    "dependence_342",
+    "dependence_354"
+  ],
+  "node_1710": [
+    "dependence_343",
+    "dependence_355"
+  ],
+  "node_1711": [
+    "dependence_344",
+    "dependence_356"
+  ],
+  "node_1712": [
+    "dependence_345",
+    "dependence_357"
+  ],
+  "node_1713": [
+    "dependence_346",
+    "dependence_358"
+  ],
+  "node_1714": [
+    "dependence_347",
+    "dependence_359",
+    "edge_54"
+  ],
+  "node_m01": [],
+  "node_m02": [
+    "dependence_373"
+  ],
+  "node_m03": [
+    "dependence_374",
+    "dependence_380"
+  ],
+  "node_m04": [
+    "dependence_375",
+    "dependence_381"
+  ],
+  "node_m05": [
+    "dependence_376",
+    "dependence_382"
+  ],
+  "node_m06": [
+    "dependence_377",
+    "dependence_383"
+  ],
+  "node_m07": [
+    "dependence_378",
+    "dependence_384"
+  ],
+  "node_m08": [
+    "dependence_379",
+    "dependence_385",
+    "edge_56"
+  ],
+  "node_xy0804": [],
+  "node_xy0903": [
+    "dependence_360"
+  ],
+  "node_xy0904": [
+    "dependence_361",
+    "dependence_367"
+  ],
+  "node_xy1004": [
+    "dependence_362",
+    "dependence_368"
+  ],
+  "node_xy1105": [
+    "dependence_363",
+    "dependence_369"
+  ],
+  "node_xy1106": [
+    "dependence_364",
+    "dependence_370"
+  ],
+  "node_xy1107": [
+    "dependence_365",
+    "dependence_371"
+  ],
+  "node_xy1203": [
+    "dependence_366",
+    "dependence_372",
+    "edge_55"
+  ]
+}
