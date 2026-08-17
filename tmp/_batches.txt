@@ -1,7 +1,0 @@
-BATCH	node_0001.json|node_0002.json|node_0003.json|node_0004.json|node_0005.json|node_0006.json
-BATCH	node_0101.json|node_0102.json|node_0103.json|node_0104.json|node_0105.json|node_0106.json|node_0107.json|node_0108.json
-BATCH	node_0109.json|node_0201.json|node_0202.json|node_0203.json|node_0204.json|node_0205.json|node_0206.json
-BATCH	node_0207.json|node_0208.json|node_0209.json|node_0210.json|node_0301.json|node_0302.json|node_0303.json
-BATCH	node_0304.json|node_0305.json|node_0306.json|node_0307.json|node_0308.json|node_0309.json|node_0401.json|node_0402.json
-
-(Showing lines 1-5 of 30. Use offset=6 to continue.)
