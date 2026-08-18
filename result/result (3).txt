@@ -1,0 +1,2516 @@
+知识库人工审阅结果
+生成时间：2026/8/18 00:17:00
+本次已完成：237 / 237
+
+以下数据块供本工具再次打开时恢复记录；人工汇总时请保留其完整性。
+<KB_REVIEW_DATA>
+{
+  "format": "knowledge-base-local-review/v1",
+  "records": [
+    {
+      "file": "doc_709.json",
+      "type": "document",
+      "id": "doc_709",
+      "title": "反诈国家防线：守好群众钱袋子",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_710.json",
+      "type": "document",
+      "id": "doc_710",
+      "title": "常态化扫黑除恶：守护百姓安宁",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_711.json",
+      "type": "document",
+      "id": "doc_711",
+      "title": "新时代枫桥经验：基层治理的金名片",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_712.json",
+      "type": "document",
+      "id": "doc_712",
+      "title": "平安中国建设：亿万群众的安全感",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_713.json",
+      "type": "document",
+      "id": "doc_713",
+      "title": "脱贫攻坚全面胜利：人口规模巨大现代化的底色",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_714.json",
+      "type": "document",
+      "id": "doc_714",
+      "title": "浙江共同富裕示范区：协调发展的先行探索",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_715.json",
+      "type": "document",
+      "id": "doc_715",
+      "title": "第三届“一带一路”国际合作高峰论坛：新时代中国主场外交的精彩答卷",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_716.json",
+      "type": "document",
+      "id": "doc_716",
+      "title": "中国—中亚峰会：元首外交引领区域命运共同体建设",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_717.json",
+      "type": "document",
+      "id": "doc_717",
+      "title": "对外提供超20亿剂新冠疫苗：守望相助的生命线",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "完整性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_718.json",
+      "type": "document",
+      "id": "doc_718",
+      "title": "菌草技术的“中国草”：为全球减贫贡献中国智慧",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_719.json",
+      "type": "document",
+      "id": "doc_719",
+      "title": "雅万高铁：中国高铁首次全系统走出国门的“金字招牌”",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_720.json",
+      "type": "document",
+      "id": "doc_720",
+      "title": "中老铁路：“黄金大通道”惠及沿线民众",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_721.json",
+      "type": "document",
+      "id": "doc_721",
+      "title": "福建舰下水命名：中国航母事业迈入电磁弹射新时代",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_722.json",
+      "type": "document",
+      "id": "doc_722",
+      "title": "山东舰入列：我国首艘国产航母驶向深蓝",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "完整性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_723.json",
+      "type": "document",
+      "id": "doc_723",
+      "title": "中央八项规定实施十周年：作风建设永远在路上",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_724.json",
+      "type": "document",
+      "id": "doc_724",
+      "title": "2022年“得罪千百人、不负十四亿人”的反腐答卷",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_725.json",
+      "type": "document",
+      "id": "doc_725",
+      "title": "“天网行动”十年：海外追逃追赃交出厚重答卷",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_726.json",
+      "type": "document",
+      "id": "doc_726",
+      "title": "“百名红通人员”孙锋归案受审：外逃不是“避罪天堂”",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_727.json",
+      "type": "document",
+      "id": "doc_727",
+      "title": "彪炳史册的人间奇迹——脱贫攻坚战取得全面胜利",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_728.json",
+      "type": "document",
+      "id": "doc_728",
+      "title": "超级工程港珠澳大桥：制度力量铸就世界之最",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_729.json",
+      "type": "document",
+      "id": "doc_729",
+      "title": "同心战疫：集中力量办大事的制度伟力",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_730.json",
+      "type": "document",
+      "id": "doc_730",
+      "title": "春节申遗成功：文化自信的世界回响",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_731.json",
+      "type": "document",
+      "id": "doc_731",
+      "title": "雅万高铁：中国标准走向世界的制度与道路自信",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_732.json",
+      "type": "document",
+      "id": "doc_732",
+      "title": "中国减贫经验：中国之治惠及世界",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_733.json",
+      "type": "document",
+      "id": "doc_733",
+      "title": "嫦娥五号带回1731克月壤：新时代科技自立自强",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_734.json",
+      "type": "document",
+      "id": "doc_734",
+      "title": "健康中国步履坚实：从人均预期寿命看民生之变",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_735.json",
+      "type": "document",
+      "id": "doc_735",
+      "title": "一带一路十周年：新时代中国特色大国外交新篇章",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_736.json",
+      "type": "document",
+      "id": "doc_736",
+      "title": "川藏铁路开建：补齐西部发展的最大短板",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_737.json",
+      "type": "document",
+      "id": "doc_737",
+      "title": "世界最大养老保险体系：民生保障的压舱石",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_738.json",
+      "type": "document",
+      "id": "doc_738",
+      "title": "农村养老之忧：美好生活需要与供给不足的写照",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_739.json",
+      "type": "document",
+      "id": "doc_739",
+      "title": "天问一号着陆火星：创新驱动发展战略的实践",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_740.json",
+      "type": "document",
+      "id": "doc_740",
+      "title": "长江十年禁渔：绿色发展理念落地生根",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_741.json",
+      "type": "document",
+      "id": "doc_741",
+      "title": "京津冀协同发展：协调与共享发展理念的样板",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_742.json",
+      "type": "document",
+      "id": "doc_742",
+      "title": "海南自贸港全岛封关：新时代制度型开放的里程碑",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_743.json",
+      "type": "document",
+      "id": "doc_743",
+      "title": "雄安新区：从一张白纸到未来之城的接续奋斗",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_744.json",
+      "type": "document",
+      "id": "doc_744",
+      "title": "深圳前海：改革开放再出发的特区中的特区",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_745.json",
+      "type": "document",
+      "id": "doc_745",
+      "title": "“两步走”战略安排：擘画强国建设的时间表与路线图",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_746.json",
+      "type": "document",
+      "id": "doc_746",
+      "title": "从百亿到百万亿：经济实力跃升夯实强国根基",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_747.json",
+      "type": "document",
+      "id": "doc_747",
+      "title": "高铁里程4.42万公里：现代化强国的“大国重器”缩影",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_748.json",
+      "type": "document",
+      "id": "doc_748",
+      "title": "深圳经济特区：改革开放中探索中国式城市现代化的样本",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_749.json",
+      "type": "document",
+      "id": "doc_749",
+      "title": "中国空间站建成：高水平科技自立自强的现代化探索",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_750.json",
+      "type": "document",
+      "id": "doc_750",
+      "title": "大国重器民机梦：C919冲上云霄的现代化攻坚",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_751.json",
+      "type": "document",
+      "id": "doc_751",
+      "title": "浙江共同富裕示范区：探索做大“蛋糕”与分好“蛋糕”",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_752.json",
+      "type": "document",
+      "id": "doc_752",
+      "title": "专精特新“小巨人”破土成长：高质量发展筑牢共富之基",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_753.json",
+      "type": "document",
+      "id": "doc_753",
+      "title": "新能源汽车“九连冠”：绿色低碳转型引领高质量发展",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_754.json",
+      "type": "document",
+      "id": "doc_754",
+      "title": "新时代“三件大事”：坚持党的领导取得历史性成就",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_755.json",
+      "type": "document",
+      "id": "doc_755",
+      "title": "基层立法联系点：坚持以人民为中心的全过程人民民主",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_756.json",
+      "type": "document",
+      "id": "doc_756",
+      "title": "十八洞村：人民中心引领下“精准扶贫”的首倡地蝶变",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_757.json",
+      "type": "document",
+      "id": "doc_757",
+      "title": "国家医保谈判降“天价药”：统筹效率与公平的生动实践",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_758.json",
+      "type": "document",
+      "id": "doc_758",
+      "title": "跨省异地就医直接结算：守住民生公平、提升治理效率",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_759.json",
+      "type": "document",
+      "id": "doc_759",
+      "title": "“北斗”组网与粮食安全：自立自强与对外开放并行不悖",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_760.json",
+      "type": "document",
+      "id": "doc_760",
+      "title": "全国驰援武汉：一场同舟共济的抗疫“阻击战”",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_761.json",
+      "type": "document",
+      "id": "doc_761",
+      "title": "9899万人口脱贫：新时代“愚公移山”式的团结奋斗",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_762.json",
+      "type": "document",
+      "id": "doc_762",
+      "title": "北京2022冬奥会：“一起向未来”的团结与荣光",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_763.json",
+      "type": "document",
+      "id": "doc_763",
+      "title": "脱贫攻坚：9899万贫困人口同步迈入全面小康",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_764.json",
+      "type": "document",
+      "id": "doc_764",
+      "title": "十八洞村：从深度贫困苗寨到“精准扶贫”样板",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_765.json",
+      "type": "document",
+      "id": "doc_765",
+      "title": "众志成城：抗疫斗争中的全党动员与全国一盘棋",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_766.json",
+      "type": "document",
+      "id": "doc_766",
+      "title": "白鹤滩水电站：党建引领铸就世界水电“皇冠上的明珠”",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_767.json",
+      "type": "document",
+      "id": "doc_767",
+      "title": "京张高铁：百年圆梦铺就智能高铁新标杆",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_768.json",
+      "type": "document",
+      "id": "doc_768",
+      "title": "大兴国际机场：“基建狂魔”背后的制度力量",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_769.json",
+      "type": "document",
+      "id": "doc_769",
+      "title": "北京冬奥会：总揽全局办成“里程碑式”大事",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_770.json",
+      "type": "document",
+      "id": "doc_770",
+      "title": "雄安新区：千年大计在党的统筹谋划中拔节生长",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_771.json",
+      "type": "document",
+      "id": "doc_771",
+      "title": "京津冀协同发展：一张蓝图绘到底的区域战略",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_772.json",
+      "type": "document",
+      "id": "doc_772",
+      "title": "秦岭违建整治：把“两个维护”落实到行动上",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_773.json",
+      "type": "document",
+      "id": "doc_773",
+      "title": "重大事项请示报告：维护党中央权威的制度保障",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_774.json",
+      "type": "document",
+      "id": "doc_774",
+      "title": "中央八项规定：以上率下彰显令行禁止的执行力",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_775.json",
+      "type": "document",
+      "id": "doc_775",
+      "title": "十九届四中全会：构建党的领导制度体系顶层设计",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_776.json",
+      "type": "document",
+      "id": "doc_776",
+      "title": "“十四五”规划“云帆”留言：全过程人民民主的制度实践",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_777.json",
+      "type": "document",
+      "id": "doc_777",
+      "title": "河长制湖长制：党领导下的生态治理制度创新",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_778.json",
+      "type": "document",
+      "id": "doc_778",
+      "title": "黄文秀：把青春和生命献给脱贫攻坚的人民公仆",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_779.json",
+      "type": "document",
+      "id": "doc_779",
+      "title": "疫苗接种全民免费：生命至上理念的生动实践",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_780.json",
+      "type": "document",
+      "id": "doc_780",
+      "title": "老旧小区改造：从群众急难愁盼到城市更新民心工程",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_781.json",
+      "type": "document",
+      "id": "doc_781",
+      "title": "安徽小岗村：18枚红手印开启农村改革先河",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_782.json",
+      "type": "document",
+      "id": "doc_782",
+      "title": "吉林梨树：农民首创'海选'推进基层群众自治",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_783.json",
+      "type": "document",
+      "id": "doc_783",
+      "title": "贵州塘约村：村民自治趟出集体经济共富路",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_784.json",
+      "type": "document",
+      "id": "doc_784",
+      "title": "政务服务'好差评'：让群众评判成为'硬约束'",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_785.json",
+      "type": "document",
+      "id": "doc_785",
+      "title": "北京'接诉即办'：以群众诉求为哨、让人民来当考官",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_786.json",
+      "type": "document",
+      "id": "doc_786",
+      "title": "人民信访：开门问效、以心换心让群众评判落地",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_787.json",
+      "type": "document",
+      "id": "doc_787",
+      "title": "宁德'四下基层'：领导干部把工作做到群众心坎上",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_788.json",
+      "type": "document",
+      "id": "doc_788",
+      "title": "浦江实践：领导下访接访化解矛盾服务群众",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_789.json",
+      "type": "document",
+      "id": "doc_789",
+      "title": "新时代'枫桥经验'：依靠群众就地化解矛盾",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_790.json",
+      "type": "document",
+      "id": "doc_790",
+      "title": "全国城镇老旧小区改造：让1亿多居民圆了'安居梦'",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_791.json",
+      "type": "document",
+      "id": "doc_791",
+      "title": "农村'厕所革命'：小厕所改出大民生",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_792.json",
+      "type": "document",
+      "id": "doc_792",
+      "title": "重庆民主村更新改造：从老旧工矿社区到幸福新家园",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_793.json",
+      "type": "document",
+      "id": "doc_793",
+      "title": "浙江共同富裕示范区：探路'缩小三大差距'",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_794.json",
+      "type": "document",
+      "id": "doc_794",
+      "title": "浙江农民'钱袋子'连年鼓起来：收入分配改善的缩影",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_795.json",
+      "type": "document",
+      "id": "doc_795",
+      "title": "浙江民生实事365：把抽象的'共富'落实为可感的民生",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_796.json",
+      "type": "document",
+      "id": "doc_796",
+      "title": "中国三峡集团：在党的领导下推进国企改革行稳致远",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_797.json",
+      "type": "document",
+      "id": "doc_797",
+      "title": "国家电投：以改革创新激发央企高质量发展活力",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_798.json",
+      "type": "document",
+      "id": "doc_798",
+      "title": "坚持社会主义方向的改革：从'姓资姓社'之辨到守正创新",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_799.json",
+      "type": "document",
+      "id": "doc_799",
+      "title": "党的二十届三中全会部署进一步全面深化改革、推进中国式现代化",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_800.json",
+      "type": "document",
+      "id": "doc_800",
+      "title": "海南自由贸易港全岛封关运作，探路制度型开放",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_801.json",
+      "type": "document",
+      "id": "doc_801",
+      "title": "国家监察体制改革：完善国家治理体系的重大制度创新",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_802.json",
+      "type": "document",
+      "id": "doc_802",
+      "title": "放管服改革：经营主体从'万'户时代迈向1.89亿户",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_803.json",
+      "type": "document",
+      "id": "doc_803",
+      "title": "长三角政务服务'一网通办'：数字政府一体化治理典范",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_804.json",
+      "type": "document",
+      "id": "doc_804",
+      "title": "北京'接诉即办'：以市民诉求驱动超大城市治理现代化",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_805.json",
+      "type": "document",
+      "id": "doc_805",
+      "title": "深圳综合改革试点：授权清单驱动的改革'试验田'",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_806.json",
+      "type": "document",
+      "id": "doc_806",
+      "title": "浦东综合改革试点：以清单授权探路高水平开放",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_807.json",
+      "type": "document",
+      "id": "doc_807",
+      "title": "农村改革试验区：从凤阳小岗到宅基地三权分置",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_808.json",
+      "type": "document",
+      "id": "doc_808",
+      "title": "新征程上进一步全面深化改革：300多项重要举措落地",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_809.json",
+      "type": "document",
+      "id": "doc_809",
+      "title": "海南自贸港封关运作：开放永无止境的新里程碑",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_810.json",
+      "type": "document",
+      "id": "doc_810",
+      "title": "从试验区到新举措：新时代改革向广度深度进军",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_811.json",
+      "type": "document",
+      "id": "doc_811",
+      "title": "经济总量首超130万亿元：迈向高质量发展新阶段",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_812.json",
+      "type": "document",
+      "id": "doc_812",
+      "title": "人均GDP站上1.3万美元：迈向高收入国家的历史性跨越",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_813.json",
+      "type": "document",
+      "id": "doc_813",
+      "title": "从规模扩张到提质增效：经济发展方式的深刻变革",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_814.json",
+      "type": "document",
+      "id": "doc_814",
+      "title": "《公平竞争审查条例》施行：破除地方保护、建设统一大市场",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_815.json",
+      "type": "document",
+      "id": "doc_815",
+      "title": "强化产权保护：构筑高水平市场经济制度基础",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_816.json",
+      "type": "document",
+      "id": "doc_816",
+      "title": "全国'一张清单'与要素自由流动：统一大市场新实践",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_817.json",
+      "type": "document",
+      "id": "doc_817",
+      "title": "华为突破“卡脖子”实现芯片自主可控",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_818.json",
+      "type": "document",
+      "id": "doc_818",
+      "title": "新能源汽车跃居全球第一催生发展新优势",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_819.json",
+      "type": "document",
+      "id": "doc_819",
+      "title": "新能源汽车下乡激活农村大市场",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_820.json",
+      "type": "document",
+      "id": "doc_820",
+      "title": "中欧班列联通内外畅通双循环",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_821.json",
+      "type": "document",
+      "id": "doc_821",
+      "title": "“中欧班列—进博号”让世界商品走进中国",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_822.json",
+      "type": "document",
+      "id": "doc_822",
+      "title": "提振消费专项行动让内需“主引擎”更强劲",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_823.json",
+      "type": "document",
+      "id": "doc_823",
+      "title": "建设全国统一大市场破除地方保护",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_824.json",
+      "type": "document",
+      "id": "doc_824",
+      "title": "C919商运圆梦见证科技自立自强",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_825.json",
+      "type": "document",
+      "id": "doc_825",
+      "title": "中国空间站建成太空“国家实验室”",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_826.json",
+      "type": "document",
+      "id": "doc_826",
+      "title": "北京“三位一体”推进教育科技人才一体发展",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_827.json",
+      "type": "document",
+      "id": "doc_827",
+      "title": "大国工匠示范引领技能报国",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_828.json",
+      "type": "document",
+      "id": "doc_828",
+      "title": "量子与AI人才集结驱动原始创新",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_829.json",
+      "type": "document",
+      "id": "doc_829",
+      "title": "国家财政教育投入连续多年超4%",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_830.json",
+      "type": "document",
+      "id": "doc_830",
+      "title": "“九章”量子计算机攀登算力高峰",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_831.json",
+      "type": "document",
+      "id": "doc_831",
+      "title": "攻克超临界二氧化碳发电“无人区”",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_832.json",
+      "type": "document",
+      "id": "doc_832",
+      "title": "爱国主义教育法夯实立德树人根基",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_833.json",
+      "type": "document",
+      "id": "doc_833",
+      "title": "大中小学思政课一体化铸魂育人",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_834.json",
+      "type": "document",
+      "id": "doc_834",
+      "title": "威海全域打造爱国主义教育“展示带”",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_835.json",
+      "type": "document",
+      "id": "doc_835",
+      "title": "“双减”落地一年：作业负担减下去，成长质量提上来",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_836.json",
+      "type": "document",
+      "id": "doc_836",
+      "title": "云南永平县：一所山村小学从“薄弱”到“强劲”的蜕变",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_837.json",
+      "type": "document",
+      "id": "doc_837",
+      "title": "独龙江特岗教师赵浩兰：用青春点亮西部乡村教育",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_838.json",
+      "type": "document",
+      "id": "doc_838",
+      "title": "邓稼先与“两弹一星”精神：以身许国的科技丰碑",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_839.json",
+      "type": "document",
+      "id": "doc_839",
+      "title": "复兴号中国标准动车组：从“追赶”到“领跑”",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_840.json",
+      "type": "document",
+      "id": "doc_840",
+      "title": "北斗三号全球组网：中国人自己的“太空罗盘”",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_841.json",
+      "type": "document",
+      "id": "doc_841",
+      "title": "华为芯片“突围”：面对科技封锁走上自立自强",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_842.json",
+      "type": "document",
+      "id": "doc_842",
+      "title": "国家重离子加速器：核心零部件实现100%国产",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_843.json",
+      "type": "document",
+      "id": "doc_843",
+      "title": "上海基础研究“十年磨一剑”：用耐心浇出“时代之问”",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_844.json",
+      "type": "document",
+      "id": "doc_844",
+      "title": "“国家工程师奖”首次表彰：让卓越工程师站上时代C位",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_845.json",
+      "type": "document",
+      "id": "doc_845",
+      "title": "大国工匠管益辉：三十年“死磕”铸就国之重器",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_846.json",
+      "type": "document",
+      "id": "doc_846",
+      "title": "哈工大学生卫星团队：让青年在重大工程中挑大梁",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_847.json",
+      "type": "document",
+      "id": "doc_847",
+      "title": "31万条群众建议：民主写进国家“十四五”规划",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_848.json",
+      "type": "document",
+      "id": "doc_848",
+      "title": "反电信网络诈骗法“开门立法”：一个电话收进百姓声音",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_849.json",
+      "type": "document",
+      "id": "doc_849",
+      "title": "高质量办理代表建议：把“金点子”变成“落地声”",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_850.json",
+      "type": "document",
+      "id": "doc_850",
+      "title": "虹桥街道基层立法联系点：民意搭上国家立法“直通车”",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_851.json",
+      "type": "document",
+      "id": "doc_851",
+      "title": "驻马店基层立法联系点：十条“金点子”写进国家法条",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_852.json",
+      "type": "document",
+      "id": "doc_852",
+      "title": "民意入法“守护青绿”：生态立法里的百姓声音",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_853.json",
+      "type": "document",
+      "id": "doc_853",
+      "title": "温岭民主恳谈会：从一场“火药味十足”的对话起步的基层协商民主",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_854.json",
+      "type": "document",
+      "id": "doc_854",
+      "title": "云南“院坝协商”：小板凳架起服务群众的“连心桥”",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_855.json",
+      "type": "document",
+      "id": "doc_855",
+      "title": "“有事好商量”：社区议事协商破解老旧小区改造难题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_856.json",
+      "type": "document",
+      "id": "doc_856",
+      "title": "河南邓州“四议两公开”：村民自己拍板的民主决策工作法",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_857.json",
+      "type": "document",
+      "id": "doc_857",
+      "title": "村规民约“约”出新风：村民自我管理自我教育的生动实践",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_858.json",
+      "type": "document",
+      "id": "doc_858",
+      "title": "“村落夜话”聚民心：基层群众议事让乡村善治落地生根",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_859.json",
+      "type": "document",
+      "id": "doc_859",
+      "title": "新的社会阶层人士：从“旁观者”变基层治理“好帮手”",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_860.json",
+      "type": "document",
+      "id": "doc_860",
+      "title": "各民主党派参政议政：多党合作共促高质量发展",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_861.json",
+      "type": "document",
+      "id": "doc_861",
+      "title": "统一战线凝心聚力：凝聚共识共促民族团结与共同发展",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_862.json",
+      "type": "document",
+      "id": "doc_862",
+      "title": "台胞在福建“把根留住”：打造台胞登陆“第一家园”",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_863.json",
+      "type": "document",
+      "id": "doc_863",
+      "title": "侨胞的家国情怀：从烽火“侨批”到新时代“侨力量”",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_864.json",
+      "type": "document",
+      "id": "doc_864",
+      "title": "多民族共居共乐：一个社区里的“民族团结一家亲”",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_865.json",
+      "type": "document",
+      "id": "doc_865",
+      "title": "组建中央全面依法治国委员会：全面依法治国的顶层设计",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_866.json",
+      "type": "document",
+      "id": "doc_866",
+      "title": "法治政府建设示范创建：把政府行为关进制度的笼子",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_867.json",
+      "type": "document",
+      "id": "doc_867",
+      "title": "运用法治思维和法治方式：重大改革于法有据的建设实践",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_868.json",
+      "type": "document",
+      "id": "doc_868",
+      "title": "《中华人民共和国民法典》：中国特色社会主义法律体系的重要里程碑",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_869.json",
+      "type": "document",
+      "id": "doc_869",
+      "title": "宪法宣誓制度写入宪法：依宪治国的庄重仪式与制度保障",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_870.json",
+      "type": "document",
+      "id": "doc_870",
+      "title": "与时俱进完善法律体系：新时代法律法规的密集立改废释",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_871.json",
+      "type": "document",
+      "id": "doc_871",
+      "title": "基层立法联系点：国家立法“直通车”开到群众家门口",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_872.json",
+      "type": "document",
+      "id": "doc_872",
+      "title": "“法援护苗”：为未成年人撑起法治“保护伞”",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_873.json",
+      "type": "document",
+      "id": "doc_873",
+      "title": "“十四五”年均调解纠纷近1600万件：矛盾纠纷多元化解的“中国方案”",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_874.json",
+      "type": "document",
+      "id": "doc_874",
+      "title": "最高人民法院巡回法庭：老百姓“家门口的最高法院”",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_875.json",
+      "type": "document",
+      "id": "doc_875",
+      "title": "检察公益诉讼十年：立案122万余件答好公益保护“中国方案”",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_876.json",
+      "type": "document",
+      "id": "doc_876",
+      "title": "起诉状示范文本改革：立案材料补正率下降80%的“身边正义”",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_877.json",
+      "type": "document",
+      "id": "doc_877",
+      "title": "“故宫热”里的文化自信：一年1800万人次打卡",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_878.json",
+      "type": "document",
+      "id": "doc_878",
+      "title": "汉服“出圈”与华服经济：传统服饰里的中国式浪漫",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_879.json",
+      "type": "document",
+      "id": "doc_879",
+      "title": "三星堆“顶流IP”：让沉睡的文物“活起来”",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_880.json",
+      "type": "document",
+      "id": "doc_880",
+      "title": "大中小学思政课一体化：让马克思主义理论入脑入心",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_881.json",
+      "type": "document",
+      "id": "doc_881",
+      "title": "“行走的思政课”：把信仰课堂搬到祖国大地上",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_882.json",
+      "type": "document",
+      "id": "doc_882",
+      "title": "理论宣讲进基层：让党的创新理论飞入寻常百姓家",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_883.json",
+      "type": "document",
+      "id": "doc_883",
+      "title": "“清朗”系列专项行动：让网络空间天朗气清",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_884.json",
+      "type": "document",
+      "id": "doc_884",
+      "title": "主流媒体深度融合：正能量赢得大流量",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_885.json",
+      "type": "document",
+      "id": "doc_885",
+      "title": "网络文明与凡人善举：让向上向善成为网络底色",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_886.json",
+      "type": "document",
+      "id": "doc_886",
+      "title": "“当代雷锋”郭明义：用志愿服务点亮社会风尚",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_887.json",
+      "type": "document",
+      "id": "doc_887",
+      "title": "张超凡：独臂女孩铸就自强与公益的“超凡人生”",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_888.json",
+      "type": "document",
+      "id": "doc_888",
+      "title": "从文明城市到文明实践：让文明成为城市最暖底色",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_889.json",
+      "type": "document",
+      "id": "doc_889",
+      "title": "春节申遗成功：千年年味成为人类共同文化遗产",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_890.json",
+      "type": "document",
+      "id": "doc_890",
+      "title": "二十四节气申遗：中国“第五大发明”的活化传承",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_891.json",
+      "type": "document",
+      "id": "doc_891",
+      "title": "泉州蟳埔簪花围：一朵“簪花”带火千年渔村",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_892.json",
+      "type": "document",
+      "id": "doc_892",
+      "title": "个税专项附加扣除改革：真金白银惠及亿万家庭",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_893.json",
+      "type": "document",
+      "id": "doc_893",
+      "title": "慈善信托迈向“百亿时代”：第三次分配活力彰显",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_894.json",
+      "type": "document",
+      "id": "doc_894",
+      "title": "浙江先行示范：“扩中提低”缩小收入差距",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_895.json",
+      "type": "document",
+      "id": "doc_895",
+      "title": "北京“接诉即办”：一条热线撬动超大城市治理变革",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_896.json",
+      "type": "document",
+      "id": "doc_896",
+      "title": "应急管理部成功避险案例：生命至上织密安全网",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_897.json",
+      "type": "document",
+      "id": "doc_897",
+      "title": "群防群治：新就业群体成为社区治理新力量",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_898.json",
+      "type": "document",
+      "id": "doc_898",
+      "title": "新时代“枫桥经验”：小事不出村大事不出镇",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_899.json",
+      "type": "document",
+      "id": "doc_899",
+      "title": "杭州“城市大脑”：数字技术赋能智慧治理",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_900.json",
+      "type": "document",
+      "id": "doc_900",
+      "title": "全国综治中心规范化建设：矛盾纠纷一站式化解",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_901.json",
+      "type": "document",
+      "id": "doc_901",
+      "title": "一刻钟便民生活圈：社区居委会服务提档升级",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_902.json",
+      "type": "document",
+      "id": "doc_902",
+      "title": "村规民约与积分制：激发乡村治理内生动力",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_903.json",
+      "type": "document",
+      "id": "doc_903",
+      "title": "重庆“邻里哨兵”：共建共治守护社区平安",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_904.json",
+      "type": "document",
+      "id": "doc_904",
+      "title": "塞罕坝：三代人让荒原变林海",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_905.json",
+      "type": "document",
+      "id": "doc_905",
+      "title": "长江十年禁渔：“微笑天使”江豚回来了",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_906.json",
+      "type": "document",
+      "id": "doc_906",
+      "title": "库布其沙漠治理：荒漠变绿洲的世界样本",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_907.json",
+      "type": "document",
+      "id": "doc_907",
+      "title": "中央生态环境保护督察：以“最严制度”守护绿水青山",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_908.json",
+      "type": "document",
+      "id": "doc_908",
+      "title": "《长江保护法》施行与十年禁渔：母亲河的系统性保护",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_909.json",
+      "type": "document",
+      "id": "doc_909",
+      "title": "全面推行河湖长制：水利工程与河长治水的治理创新",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_910.json",
+      "type": "document",
+      "id": "doc_910",
+      "title": "“双碳”目标引领绿色转型：碳达峰碳中和的中国行动",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_911.json",
+      "type": "document",
+      "id": "doc_911",
+      "title": "以国家公园为主体的自然保护地体系守护生物多样性",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_912.json",
+      "type": "document",
+      "id": "doc_912",
+      "title": "塞罕坝机械林场：荒原变林海的人与自然和谐典范",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_913.json",
+      "type": "document",
+      "id": "doc_913",
+      "title": "绿色“一带一路”：清洁能源合作点亮沿线国家",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_914.json",
+      "type": "document",
+      "id": "doc_914",
+      "title": "中国光伏风电风靡全球：以绿色制造助力全球减排",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_915.json",
+      "type": "document",
+      "id": "doc_915",
+      "title": "合作应对气候变化：中国加入并落实《巴黎协定》",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_916.json",
+      "type": "document",
+      "id": "doc_916",
+      "title": "统筹疫情防控和经济社会发展：以科学精准守牢安全底线",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_917.json",
+      "type": "document",
+      "id": "doc_917",
+      "title": "藏粮于地、藏粮于技：端牢中国饭碗的粮食安全实践",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_918.json",
+      "type": "document",
+      "id": "doc_918",
+      "title": "多能并举、保供稳价：国家能源安全的有力支撑",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_919.json",
+      "type": "document",
+      "id": "doc_919",
+      "title": "总体国家安全观：把政治安全放在首位",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_920.json",
+      "type": "document",
+      "id": "doc_920",
+      "title": "《国家安全法》施行：为维护国家政权与制度安全提供法治保障",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_921.json",
+      "type": "document",
+      "id": "doc_921",
+      "title": "守好意识形态安全“南大门”：加强宣传思想阵地建设",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_922.json",
+      "type": "document",
+      "id": "doc_922",
+      "title": "筑牢网络安全屏障：网络安全法实施与安全宣传周",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_923.json",
+      "type": "document",
+      "id": "doc_923",
+      "title": "保障国家粮食安全：打赢种业翻身仗、扛稳粮食责任",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_924.json",
+      "type": "document",
+      "id": "doc_924",
+      "title": "强化数据安全管理：数据出境与个人信息保护",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_925.json",
+      "type": "document",
+      "id": "doc_925",
+      "title": "全民国家安全教育日与人民防线：103名群众获国家安全机关表彰",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_926.json",
+      "type": "document",
+      "id": "doc_926",
+      "title": "科研专家捞获境外窃密设备：反间谍防线上的公民担当",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_927.json",
+      "type": "document",
+      "id": "doc_927",
+      "title": "国家安全机关依法破获郭某某等多起间谍窃密案",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_928.json",
+      "type": "document",
+      "id": "doc_928",
+      "title": "兰州债务风险等级“退红”：地方债务风险有序化解",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_929.json",
+      "type": "document",
+      "id": "doc_929",
+      "title": "“应急使命·2023”军地联合地震救援演习检验应急管理体系",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_930.json",
+      "type": "document",
+      "id": "doc_930",
+      "title": "南宁以市场化法制化方式化解“问题楼盘”风险",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_931.json",
+      "type": "document",
+      "id": "doc_931",
+      "title": "海军第46批护航编队赴亚丁湾护航：维护和平的深海蓝盾",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_932.json",
+      "type": "document",
+      "id": "doc_932",
+      "title": "中国“蓝盔”维和30年：为和平出征的国际担当",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_933.json",
+      "type": "document",
+      "id": "doc_933",
+      "title": "积石山地震中解放军和武警部队冲在抗震救灾一线",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_934.json",
+      "type": "document",
+      "id": "doc_934",
+      "title": "军委主席负责制：党对军队绝对领导的根本制度安排",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_935.json",
+      "type": "document",
+      "id": "doc_935",
+      "title": "政治整训与新时代军地党的建设：让支部建在连上落地生根",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_936.json",
+      "type": "document",
+      "id": "doc_936",
+      "title": "英雄精神铸军魂：部队创排情景教育课传承红色基因",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_937.json",
+      "type": "document",
+      "id": "doc_937",
+      "title": "深化国防和军队改革：人民军队实现整体性革命性重塑",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_938.json",
+      "type": "document",
+      "id": "doc_938",
+      "title": "第81集团军“容错机制”激发官兵创新潜能",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_939.json",
+      "type": "document",
+      "id": "doc_939",
+      "title": "“人工智能+”首训亮相：科技强军助推练兵变革",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_940.json",
+      "type": "document",
+      "id": "doc_940",
+      "title": "第82集团军“超越红蓝”：对抗训练常态组织角色互换",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_941.json",
+      "type": "document",
+      "id": "doc_941",
+      "title": "记者走进座座军营：实战化训练呈现新气象",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_942.json",
+      "type": "document",
+      "id": "doc_942",
+      "title": "无人智能装备练兵：合成部队探索新质战斗力生成",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_943.json",
+      "type": "document",
+      "id": "doc_943",
+      "title": "国产大飞机C919：军民融合铸造的工业皇冠",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_944.json",
+      "type": "document",
+      "id": "doc_944",
+      "title": "北斗卫星导航系统：军民两用、全球组网的大国重器",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/18 00:17:00"
+    },
+    {
+      "file": "doc_945.json",
+      "type": "document",
+      "id": "doc_945",
+      "title": "民企参军：从航空配套到'卡脖子'突破的样本",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/18 00:17:00"
+    }
+  ]
+}
+</KB_REVIEW_DATA>

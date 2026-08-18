@@ -55,7 +55,7 @@
   ],
   "name": "推进国家安全体系和能力现代化",
   "pictures": [],
-  "revision": 3,
+  "revision": 4,
   "schema_version": "1.0",
   "status": "draft",
   "tags": [
@@ -89,5 +89,5 @@
       "test_id": "test_1405"
     }
   ],
-  "updated_at": "2026-08-15T16:18:49Z"
+  "updated_at": "2026-08-18T16:20:39Z"
 }

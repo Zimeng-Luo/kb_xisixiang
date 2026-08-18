@@ -1,0 +1,1919 @@
+知识库人工审阅结果
+生成时间：2026/8/17 22:53:54
+本次已完成：184 / 184
+
+以下数据块供本工具再次打开时恢复记录；人工汇总时请保留其完整性。
+<KB_REVIEW_DATA>
+{
+  "format": "knowledge-base-local-review/v1",
+  "records": [
+    {
+      "file": "test_1509.json",
+      "type": "test",
+      "id": "test_1509",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1510.json",
+      "type": "test",
+      "id": "test_1510",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1511.json",
+      "type": "test",
+      "id": "test_1511",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1512.json",
+      "type": "test",
+      "id": "test_1512",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1513.json",
+      "type": "test",
+      "id": "test_1513",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1514.json",
+      "type": "test",
+      "id": "test_1514",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1515.json",
+      "type": "test",
+      "id": "test_1515",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1516.json",
+      "type": "test",
+      "id": "test_1516",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性",
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1517.json",
+      "type": "test",
+      "id": "test_1517",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1518.json",
+      "type": "test",
+      "id": "test_1518",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1519.json",
+      "type": "test",
+      "id": "test_1519",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1520.json",
+      "type": "test",
+      "id": "test_1520",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1521.json",
+      "type": "test",
+      "id": "test_1521",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1522.json",
+      "type": "test",
+      "id": "test_1522",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1523.json",
+      "type": "test",
+      "id": "test_1523",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1524.json",
+      "type": "test",
+      "id": "test_1524",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1525.json",
+      "type": "test",
+      "id": "test_1525",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1526.json",
+      "type": "test",
+      "id": "test_1526",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1527.json",
+      "type": "test",
+      "id": "test_1527",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1528.json",
+      "type": "test",
+      "id": "test_1528",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1529.json",
+      "type": "test",
+      "id": "test_1529",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1530.json",
+      "type": "test",
+      "id": "test_1530",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1531.json",
+      "type": "test",
+      "id": "test_1531",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1532.json",
+      "type": "test",
+      "id": "test_1532",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性",
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1533.json",
+      "type": "test",
+      "id": "test_1533",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1534.json",
+      "type": "test",
+      "id": "test_1534",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1535.json",
+      "type": "test",
+      "id": "test_1535",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性",
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1536.json",
+      "type": "test",
+      "id": "test_1536",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1537.json",
+      "type": "test",
+      "id": "test_1537",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1538.json",
+      "type": "test",
+      "id": "test_1538",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性",
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1539.json",
+      "type": "test",
+      "id": "test_1539",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1540.json",
+      "type": "test",
+      "id": "test_1540",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1541.json",
+      "type": "test",
+      "id": "test_1541",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1542.json",
+      "type": "test",
+      "id": "test_1542",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1543.json",
+      "type": "test",
+      "id": "test_1543",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1544.json",
+      "type": "test",
+      "id": "test_1544",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1545.json",
+      "type": "test",
+      "id": "test_1545",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1546.json",
+      "type": "test",
+      "id": "test_1546",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1547.json",
+      "type": "test",
+      "id": "test_1547",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1548.json",
+      "type": "test",
+      "id": "test_1548",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1549.json",
+      "type": "test",
+      "id": "test_1549",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1550.json",
+      "type": "test",
+      "id": "test_1550",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1551.json",
+      "type": "test",
+      "id": "test_1551",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1552.json",
+      "type": "test",
+      "id": "test_1552",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1553.json",
+      "type": "test",
+      "id": "test_1553",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1554.json",
+      "type": "test",
+      "id": "test_1554",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1555.json",
+      "type": "test",
+      "id": "test_1555",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1556.json",
+      "type": "test",
+      "id": "test_1556",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1557.json",
+      "type": "test",
+      "id": "test_1557",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1558.json",
+      "type": "test",
+      "id": "test_1558",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1559.json",
+      "type": "test",
+      "id": "test_1559",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1560.json",
+      "type": "test",
+      "id": "test_1560",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1561.json",
+      "type": "test",
+      "id": "test_1561",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1562.json",
+      "type": "test",
+      "id": "test_1562",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1563.json",
+      "type": "test",
+      "id": "test_1563",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1564.json",
+      "type": "test",
+      "id": "test_1564",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1565.json",
+      "type": "test",
+      "id": "test_1565",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1566.json",
+      "type": "test",
+      "id": "test_1566",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1567.json",
+      "type": "test",
+      "id": "test_1567",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1568.json",
+      "type": "test",
+      "id": "test_1568",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1569.json",
+      "type": "test",
+      "id": "test_1569",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1570.json",
+      "type": "test",
+      "id": "test_1570",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1571.json",
+      "type": "test",
+      "id": "test_1571",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1572.json",
+      "type": "test",
+      "id": "test_1572",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1573.json",
+      "type": "test",
+      "id": "test_1573",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1574.json",
+      "type": "test",
+      "id": "test_1574",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1575.json",
+      "type": "test",
+      "id": "test_1575",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1576.json",
+      "type": "test",
+      "id": "test_1576",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1577.json",
+      "type": "test",
+      "id": "test_1577",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1578.json",
+      "type": "test",
+      "id": "test_1578",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1579.json",
+      "type": "test",
+      "id": "test_1579",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1580.json",
+      "type": "test",
+      "id": "test_1580",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1581.json",
+      "type": "test",
+      "id": "test_1581",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1582.json",
+      "type": "test",
+      "id": "test_1582",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1583.json",
+      "type": "test",
+      "id": "test_1583",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1584.json",
+      "type": "test",
+      "id": "test_1584",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1585.json",
+      "type": "test",
+      "id": "test_1585",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1586.json",
+      "type": "test",
+      "id": "test_1586",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1587.json",
+      "type": "test",
+      "id": "test_1587",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1588.json",
+      "type": "test",
+      "id": "test_1588",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1589.json",
+      "type": "test",
+      "id": "test_1589",
+      "title": "判断题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性",
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1590.json",
+      "type": "test",
+      "id": "test_1590",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1591.json",
+      "type": "test",
+      "id": "test_1591",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1592.json",
+      "type": "test",
+      "id": "test_1592",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1593.json",
+      "type": "test",
+      "id": "test_1593",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1594.json",
+      "type": "test",
+      "id": "test_1594",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1595.json",
+      "type": "test",
+      "id": "test_1595",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1596.json",
+      "type": "test",
+      "id": "test_1596",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1597.json",
+      "type": "test",
+      "id": "test_1597",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1598.json",
+      "type": "test",
+      "id": "test_1598",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1599.json",
+      "type": "test",
+      "id": "test_1599",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1600.json",
+      "type": "test",
+      "id": "test_1600",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1601.json",
+      "type": "test",
+      "id": "test_1601",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性",
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1602.json",
+      "type": "test",
+      "id": "test_1602",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1603.json",
+      "type": "test",
+      "id": "test_1603",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1604.json",
+      "type": "test",
+      "id": "test_1604",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1605.json",
+      "type": "test",
+      "id": "test_1605",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1606.json",
+      "type": "test",
+      "id": "test_1606",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1607.json",
+      "type": "test",
+      "id": "test_1607",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1608.json",
+      "type": "test",
+      "id": "test_1608",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1609.json",
+      "type": "test",
+      "id": "test_1609",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1610.json",
+      "type": "test",
+      "id": "test_1610",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1611.json",
+      "type": "test",
+      "id": "test_1611",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1612.json",
+      "type": "test",
+      "id": "test_1612",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1613.json",
+      "type": "test",
+      "id": "test_1613",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1614.json",
+      "type": "test",
+      "id": "test_1614",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1615.json",
+      "type": "test",
+      "id": "test_1615",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1616.json",
+      "type": "test",
+      "id": "test_1616",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "完整性",
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1617.json",
+      "type": "test",
+      "id": "test_1617",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1618.json",
+      "type": "test",
+      "id": "test_1618",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性",
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1619.json",
+      "type": "test",
+      "id": "test_1619",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1620.json",
+      "type": "test",
+      "id": "test_1620",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1621.json",
+      "type": "test",
+      "id": "test_1621",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1622.json",
+      "type": "test",
+      "id": "test_1622",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1623.json",
+      "type": "test",
+      "id": "test_1623",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1624.json",
+      "type": "test",
+      "id": "test_1624",
+      "title": "辨析判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1625.json",
+      "type": "test",
+      "id": "test_1625",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1626.json",
+      "type": "test",
+      "id": "test_1626",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1627.json",
+      "type": "test",
+      "id": "test_1627",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1628.json",
+      "type": "test",
+      "id": "test_1628",
+      "title": "辨析判断题：判断下列说法是真是假并说明理由",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1629.json",
+      "type": "test",
+      "id": "test_1629",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1630.json",
+      "type": "test",
+      "id": "test_1630",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1631.json",
+      "type": "test",
+      "id": "test_1631",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1632.json",
+      "type": "test",
+      "id": "test_1632",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1633.json",
+      "type": "test",
+      "id": "test_1633",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1634.json",
+      "type": "test",
+      "id": "test_1634",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1635.json",
+      "type": "test",
+      "id": "test_1635",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1636.json",
+      "type": "test",
+      "id": "test_1636",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1637.json",
+      "type": "test",
+      "id": "test_1637",
+      "title": "辨析判断：关于保持战略定力的认识",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1638.json",
+      "type": "test",
+      "id": "test_1638",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1639.json",
+      "type": "test",
+      "id": "test_1639",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性",
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1640.json",
+      "type": "test",
+      "id": "test_1640",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1641.json",
+      "type": "test",
+      "id": "test_1641",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1642.json",
+      "type": "test",
+      "id": "test_1642",
+      "title": "辨析判断（真/假判断）",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1643.json",
+      "type": "test",
+      "id": "test_1643",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1644.json",
+      "type": "test",
+      "id": "test_1644",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1645.json",
+      "type": "test",
+      "id": "test_1645",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1646.json",
+      "type": "test",
+      "id": "test_1646",
+      "title": "辨析判断：关于调查研究与相关论断的表述（判断正误并说明理由）",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1647.json",
+      "type": "test",
+      "id": "test_1647",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1648.json",
+      "type": "test",
+      "id": "test_1648",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1649.json",
+      "type": "test",
+      "id": "test_1649",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1650.json",
+      "type": "test",
+      "id": "test_1650",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1651.json",
+      "type": "test",
+      "id": "test_1651",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1652.json",
+      "type": "test",
+      "id": "test_1652",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1653.json",
+      "type": "test",
+      "id": "test_1653",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1654.json",
+      "type": "test",
+      "id": "test_1654",
+      "title": "辨析判断：关于『学习』地位的认识",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性",
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1655.json",
+      "type": "test",
+      "id": "test_1655",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1656.json",
+      "type": "test",
+      "id": "test_1656",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1657.json",
+      "type": "test",
+      "id": "test_1657",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1658.json",
+      "type": "test",
+      "id": "test_1658",
+      "title": "辨析判断题：公平正义是否等于平均主义？",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1659.json",
+      "type": "test",
+      "id": "test_1659",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1660.json",
+      "type": "test",
+      "id": "test_1660",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1661.json",
+      "type": "test",
+      "id": "test_1661",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1662.json",
+      "type": "test",
+      "id": "test_1662",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1663.json",
+      "type": "test",
+      "id": "test_1663",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1664.json",
+      "type": "test",
+      "id": "test_1664",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性",
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1665.json",
+      "type": "test",
+      "id": "test_1665",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1666.json",
+      "type": "test",
+      "id": "test_1666",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1667.json",
+      "type": "test",
+      "id": "test_1667",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1668.json",
+      "type": "test",
+      "id": "test_1668",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1669.json",
+      "type": "test",
+      "id": "test_1669",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1670.json",
+      "type": "test",
+      "id": "test_1670",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1671.json",
+      "type": "test",
+      "id": "test_1671",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1672.json",
+      "type": "test",
+      "id": "test_1672",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1673.json",
+      "type": "test",
+      "id": "test_1673",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1674.json",
+      "type": "test",
+      "id": "test_1674",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1675.json",
+      "type": "test",
+      "id": "test_1675",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1676.json",
+      "type": "test",
+      "id": "test_1676",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1677.json",
+      "type": "test",
+      "id": "test_1677",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1678.json",
+      "type": "test",
+      "id": "test_1678",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1679.json",
+      "type": "test",
+      "id": "test_1679",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1680.json",
+      "type": "test",
+      "id": "test_1680",
+      "title": "辨析判断：关于网络空间治理的说法判断正误。",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "完整性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1681.json",
+      "type": "test",
+      "id": "test_1681",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1682.json",
+      "type": "test",
+      "id": "test_1682",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1683.json",
+      "type": "test",
+      "id": "test_1683",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1684.json",
+      "type": "test",
+      "id": "test_1684",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1685.json",
+      "type": "test",
+      "id": "test_1685",
+      "title": "单选题",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1686.json",
+      "type": "test",
+      "id": "test_1686",
+      "title": "判断题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1687.json",
+      "type": "test",
+      "id": "test_1687",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1688.json",
+      "type": "test",
+      "id": "test_1688",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1689.json",
+      "type": "test",
+      "id": "test_1689",
+      "title": "辨析判断：脱贫攻坚与一般扶贫",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "完整性"
+      ],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1690.json",
+      "type": "test",
+      "id": "test_1690",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1691.json",
+      "type": "test",
+      "id": "test_1691",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    },
+    {
+      "file": "test_1692.json",
+      "type": "test",
+      "id": "test_1692",
+      "title": "单选题",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 22:53:54"
+    }
+  ]
+}
+</KB_REVIEW_DATA>

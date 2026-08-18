@@ -1,0 +1,2467 @@
+知识库人工审阅结果
+生成时间：2026/8/17 18:57:50
+本次已完成：236 / 236
+
+以下数据块供本工具再次打开时恢复记录；人工汇总时请保留其完整性。
+<KB_REVIEW_DATA>
+{
+  "format": "knowledge-base-local-review/v1",
+  "records": [
+    {
+      "file": "doc_237.json",
+      "type": "document",
+      "id": "doc_237",
+      "title": "实践意义/关联",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_238.json",
+      "type": "document",
+      "id": "doc_238",
+      "title": "坚定不移走中国特色社会主义政治发展道路 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_239.json",
+      "type": "document",
+      "id": "doc_239",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_240.json",
+      "type": "document",
+      "id": "doc_240",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_241.json",
+      "type": "document",
+      "id": "doc_241",
+      "title": "全过程人民民主是社会主义民主政治的伟大创造 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_242.json",
+      "type": "document",
+      "id": "doc_242",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_243.json",
+      "type": "document",
+      "id": "doc_243",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_244.json",
+      "type": "document",
+      "id": "doc_244",
+      "title": "全过程人民民主是全链条、全方位、全覆盖的民主 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_245.json",
+      "type": "document",
+      "id": "doc_245",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_246.json",
+      "type": "document",
+      "id": "doc_246",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_247.json",
+      "type": "document",
+      "id": "doc_247",
+      "title": "全过程人民民主是最广泛、最真实、最管用的民主 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_248.json",
+      "type": "document",
+      "id": "doc_248",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_249.json",
+      "type": "document",
+      "id": "doc_249",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_250.json",
+      "type": "document",
+      "id": "doc_250",
+      "title": "加强人民当家作主制度保障 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_251.json",
+      "type": "document",
+      "id": "doc_251",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_252.json",
+      "type": "document",
+      "id": "doc_252",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_253.json",
+      "type": "document",
+      "id": "doc_253",
+      "title": "全面发展协商民主 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_254.json",
+      "type": "document",
+      "id": "doc_254",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_255.json",
+      "type": "document",
+      "id": "doc_255",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_256.json",
+      "type": "document",
+      "id": "doc_256",
+      "title": "积极发展基层民主 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_257.json",
+      "type": "document",
+      "id": "doc_257",
+      "title": "概念解析/理论背景",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_258.json",
+      "type": "document",
+      "id": "doc_258",
+      "title": "实践意义/关联",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_259.json",
+      "type": "document",
+      "id": "doc_259",
+      "title": "统一战线是凝聚人心、汇聚力量的强大法宝 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_260.json",
+      "type": "document",
+      "id": "doc_260",
+      "title": "概念解析/理论背景",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "主题匹配"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_261.json",
+      "type": "document",
+      "id": "doc_261",
+      "title": "实践意义/关联",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "主题匹配"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_262.json",
+      "type": "document",
+      "id": "doc_262",
+      "title": "铸牢中华民族共同体意识 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_263.json",
+      "type": "document",
+      "id": "doc_263",
+      "title": "概念解析/理论背景",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "完整性"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_264.json",
+      "type": "document",
+      "id": "doc_264",
+      "title": "实践意义/关联",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "完整性"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_265.json",
+      "type": "document",
+      "id": "doc_265",
+      "title": "加强和促进海内外中华儿女大团结 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_266.json",
+      "type": "document",
+      "id": "doc_266",
+      "title": "概念解析/理论背景",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "完整性"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_267.json",
+      "type": "document",
+      "id": "doc_267",
+      "title": "实践意义/关联",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_268.json",
+      "type": "document",
+      "id": "doc_268",
+      "title": "全面依法治国是国家治理的一场深刻革命 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_269.json",
+      "type": "document",
+      "id": "doc_269",
+      "title": "概念解析：全面依法治国是国家治理的一场深刻革命",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_270.json",
+      "type": "document",
+      "id": "doc_270",
+      "title": "实践意义：全面依法治国与“四个全面”及国家治理现代化",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_271.json",
+      "type": "document",
+      "id": "doc_271",
+      "title": "全面依法治国的唯一正确道路 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_272.json",
+      "type": "document",
+      "id": "doc_272",
+      "title": "概念解析：中国特色社会主义法治道路的核心要义与基本原则",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_273.json",
+      "type": "document",
+      "id": "doc_273",
+      "title": "实践意义：把握核心要义毫不动摇，走好中国特色社会主义法治道路",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_274.json",
+      "type": "document",
+      "id": "doc_274",
+      "title": "统筹处理全面依法治国的重大关系 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_275.json",
+      "type": "document",
+      "id": "doc_275",
+      "title": "概念解析：统筹处理全面依法治国的重大关系",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_276.json",
+      "type": "document",
+      "id": "doc_276",
+      "title": "实践意义：正确处理重大关系，防止相互割裂或偏废",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_277.json",
+      "type": "document",
+      "id": "doc_277",
+      "title": "全面推进依法治国的总抓手 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_278.json",
+      "type": "document",
+      "id": "doc_278",
+      "title": "概念解析：建设中国特色社会主义法治体系是全面依法治国的总抓手",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_279.json",
+      "type": "document",
+      "id": "doc_279",
+      "title": "实践意义：以法治体系建设牵引全面依法治国各项工作",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_280.json",
+      "type": "document",
+      "id": "doc_280",
+      "title": "坚持依宪治国、依宪执政 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_281.json",
+      "type": "document",
+      "id": "doc_281",
+      "title": "概念解析：坚持依宪治国、依宪执政",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_282.json",
+      "type": "document",
+      "id": "doc_282",
+      "title": "实践意义：把宪法实施贯穿治国理政全过程，维护宪法权威",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_283.json",
+      "type": "document",
+      "id": "doc_283",
+      "title": "更好推进中国特色社会主义法治体系建设 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_284.json",
+      "type": "document",
+      "id": "doc_284",
+      "title": "概念解析：更好推进中国特色社会主义法治体系建设",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_285.json",
+      "type": "document",
+      "id": "doc_285",
+      "title": "实践意义：以五大体系建设为支撑，全面提升法治效能",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_286.json",
+      "type": "document",
+      "id": "doc_286",
+      "title": "法治中国建设的总体目标 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_287.json",
+      "type": "document",
+      "id": "doc_287",
+      "title": "概念解析：法治中国建设的总体目标",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_288.json",
+      "type": "document",
+      "id": "doc_288",
+      "title": "实践意义：以总体目标为蓝图，分阶段推进法治中国建设",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_289.json",
+      "type": "document",
+      "id": "doc_289",
+      "title": "法治中国建设的工作布局 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_290.json",
+      "type": "document",
+      "id": "doc_290",
+      "title": "概念解析：法治中国建设的工作布局",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_291.json",
+      "type": "document",
+      "id": "doc_291",
+      "title": "实践意义：落实三大工作布局，形成法治建设合力",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_292.json",
+      "type": "document",
+      "id": "doc_292",
+      "title": "建设更高水平的法治中国 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_293.json",
+      "type": "document",
+      "id": "doc_293",
+      "title": "概念解析：建设更高水平的法治中国",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_294.json",
+      "type": "document",
+      "id": "doc_294",
+      "title": "实践意义：围绕公平正义，高质量推进法治各环节建设",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_295.json",
+      "type": "document",
+      "id": "doc_295",
+      "title": "文化繁荣兴盛是实现中华民族伟大复兴的必然要求 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_296.json",
+      "type": "document",
+      "id": "doc_296",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_297.json",
+      "type": "document",
+      "id": "doc_297",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_298.json",
+      "type": "document",
+      "id": "doc_298",
+      "title": "坚定中国特色社会主义文化自信 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_299.json",
+      "type": "document",
+      "id": "doc_299",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_300.json",
+      "type": "document",
+      "id": "doc_300",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_301.json",
+      "type": "document",
+      "id": "doc_301",
+      "title": "坚持中国特色社会主义文化发展道路 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_302.json",
+      "type": "document",
+      "id": "doc_302",
+      "title": "概念解析/理论背景",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_303.json",
+      "type": "document",
+      "id": "doc_303",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_304.json",
+      "type": "document",
+      "id": "doc_304",
+      "title": "坚持马克思主义在意识形态领域指导地位的根本制度 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_305.json",
+      "type": "document",
+      "id": "doc_305",
+      "title": "概念解析/理论背景",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_306.json",
+      "type": "document",
+      "id": "doc_306",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_307.json",
+      "type": "document",
+      "id": "doc_307",
+      "title": "大力加强马克思主义理论建设 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_308.json",
+      "type": "document",
+      "id": "doc_308",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_309.json",
+      "type": "document",
+      "id": "doc_309",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_310.json",
+      "type": "document",
+      "id": "doc_310",
+      "title": "积极塑造主流舆论新格局 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_311.json",
+      "type": "document",
+      "id": "doc_311",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_312.json",
+      "type": "document",
+      "id": "doc_312",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_313.json",
+      "type": "document",
+      "id": "doc_313",
+      "title": "广泛践行社会主义核心价值观 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_314.json",
+      "type": "document",
+      "id": "doc_314",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_315.json",
+      "type": "document",
+      "id": "doc_315",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_316.json",
+      "type": "document",
+      "id": "doc_316",
+      "title": "弘扬以伟大建党精神为源头的中国共产党人精神谱系 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_317.json",
+      "type": "document",
+      "id": "doc_317",
+      "title": "概念解析/理论背景",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_318.json",
+      "type": "document",
+      "id": "doc_318",
+      "title": "实践意义/关联",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_319.json",
+      "type": "document",
+      "id": "doc_319",
+      "title": "提高全社会文明程度 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_320.json",
+      "type": "document",
+      "id": "doc_320",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_321.json",
+      "type": "document",
+      "id": "doc_321",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_322.json",
+      "type": "document",
+      "id": "doc_322",
+      "title": "传承发展中华优秀传统文化 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_323.json",
+      "type": "document",
+      "id": "doc_323",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_324.json",
+      "type": "document",
+      "id": "doc_324",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_325.json",
+      "type": "document",
+      "id": "doc_325",
+      "title": "繁荣发展文化事业和文化产业 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_326.json",
+      "type": "document",
+      "id": "doc_326",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_327.json",
+      "type": "document",
+      "id": "doc_327",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_328.json",
+      "type": "document",
+      "id": "doc_328",
+      "title": "不断提升国家文化软实力和中华文化影响力 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_329.json",
+      "type": "document",
+      "id": "doc_329",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_330.json",
+      "type": "document",
+      "id": "doc_330",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_331.json",
+      "type": "document",
+      "id": "doc_331",
+      "title": "民生是人民幸福之基 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_332.json",
+      "type": "document",
+      "id": "doc_332",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_333.json",
+      "type": "document",
+      "id": "doc_333",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_334.json",
+      "type": "document",
+      "id": "doc_334",
+      "title": "人民获得感幸福感安全感更加充实、更有保障、更可持续 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_335.json",
+      "type": "document",
+      "id": "doc_335",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_336.json",
+      "type": "document",
+      "id": "doc_336",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_337.json",
+      "type": "document",
+      "id": "doc_337",
+      "title": "坚持在发展中增进民生福祉 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_338.json",
+      "type": "document",
+      "id": "doc_338",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_339.json",
+      "type": "document",
+      "id": "doc_339",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_340.json",
+      "type": "document",
+      "id": "doc_340",
+      "title": "完善分配制度 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_341.json",
+      "type": "document",
+      "id": "doc_341",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_342.json",
+      "type": "document",
+      "id": "doc_342",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_343.json",
+      "type": "document",
+      "id": "doc_343",
+      "title": "实施就业优先战略 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_344.json",
+      "type": "document",
+      "id": "doc_344",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_345.json",
+      "type": "document",
+      "id": "doc_345",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_346.json",
+      "type": "document",
+      "id": "doc_346",
+      "title": "健全社会保障体系 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_347.json",
+      "type": "document",
+      "id": "doc_347",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_348.json",
+      "type": "document",
+      "id": "doc_348",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_349.json",
+      "type": "document",
+      "id": "doc_349",
+      "title": "推进健康中国建设 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_350.json",
+      "type": "document",
+      "id": "doc_350",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_351.json",
+      "type": "document",
+      "id": "doc_351",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_352.json",
+      "type": "document",
+      "id": "doc_352",
+      "title": "加强和创新社会治理 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_353.json",
+      "type": "document",
+      "id": "doc_353",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_354.json",
+      "type": "document",
+      "id": "doc_354",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_355.json",
+      "type": "document",
+      "id": "doc_355",
+      "title": "完善社会治理体系 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_356.json",
+      "type": "document",
+      "id": "doc_356",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_357.json",
+      "type": "document",
+      "id": "doc_357",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_358.json",
+      "type": "document",
+      "id": "doc_358",
+      "title": "加强城乡社区治理 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_359.json",
+      "type": "document",
+      "id": "doc_359",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_360.json",
+      "type": "document",
+      "id": "doc_360",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_361.json",
+      "type": "document",
+      "id": "doc_361",
+      "title": "生态兴则文明兴 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_362.json",
+      "type": "document",
+      "id": "doc_362",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_363.json",
+      "type": "document",
+      "id": "doc_363",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_364.json",
+      "type": "document",
+      "id": "doc_364",
+      "title": "绿水青山就是金山银山 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_365.json",
+      "type": "document",
+      "id": "doc_365",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_366.json",
+      "type": "document",
+      "id": "doc_366",
+      "title": "实践意义/关联",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "完整性"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_367.json",
+      "type": "document",
+      "id": "doc_367",
+      "title": "把生态文明建设摆在全局工作的突出位置 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_368.json",
+      "type": "document",
+      "id": "doc_368",
+      "title": "概念解析/理论背景",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "主题匹配",
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_369.json",
+      "type": "document",
+      "id": "doc_369",
+      "title": "实践意义/关联",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "主题匹配"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_370.json",
+      "type": "document",
+      "id": "doc_370",
+      "title": "加快形成绿色生产方式和生活方式 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_371.json",
+      "type": "document",
+      "id": "doc_371",
+      "title": "概念解析/理论背景",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "主题匹配",
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_372.json",
+      "type": "document",
+      "id": "doc_372",
+      "title": "实践意义/关联",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "主题匹配",
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_373.json",
+      "type": "document",
+      "id": "doc_373",
+      "title": "坚持山水林田湖草沙一体化保护和系统治理 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_374.json",
+      "type": "document",
+      "id": "doc_374",
+      "title": "概念解析/理论背景",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "主题匹配",
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_375.json",
+      "type": "document",
+      "id": "doc_375",
+      "title": "实践意义/关联",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "主题匹配",
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_376.json",
+      "type": "document",
+      "id": "doc_376",
+      "title": "用最严格制度最严密法治保护生态环境 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_377.json",
+      "type": "document",
+      "id": "doc_377",
+      "title": "概念解析/理论背景",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "主题匹配",
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_378.json",
+      "type": "document",
+      "id": "doc_378",
+      "title": "实践意义/关联",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "主题匹配",
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_379.json",
+      "type": "document",
+      "id": "doc_379",
+      "title": "保护人类共同家园 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_380.json",
+      "type": "document",
+      "id": "doc_380",
+      "title": "概念解析/理论背景",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "主题匹配"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_381.json",
+      "type": "document",
+      "id": "doc_381",
+      "title": "实践意义/关联",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "完整性",
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_382.json",
+      "type": "document",
+      "id": "doc_382",
+      "title": "共建清洁美丽世界 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_383.json",
+      "type": "document",
+      "id": "doc_383",
+      "title": "概念解析/理论背景",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_384.json",
+      "type": "document",
+      "id": "doc_384",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_385.json",
+      "type": "document",
+      "id": "doc_385",
+      "title": "积极推动全球可持续发展 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_386.json",
+      "type": "document",
+      "id": "doc_386",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_387.json",
+      "type": "document",
+      "id": "doc_387",
+      "title": "实践意义/关联",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "完整性",
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_388.json",
+      "type": "document",
+      "id": "doc_388",
+      "title": "国家安全是民族复兴的根基 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_389.json",
+      "type": "document",
+      "id": "doc_389",
+      "title": "国家安全是民族复兴的根基——概念解析与理论背景",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_390.json",
+      "type": "document",
+      "id": "doc_390",
+      "title": "国家安全是民族复兴的根基——实践意义与关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_391.json",
+      "type": "document",
+      "id": "doc_391",
+      "title": "总体国家安全观是新时代国家安全工作的基本遵循 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_392.json",
+      "type": "document",
+      "id": "doc_392",
+      "title": "总体国家安全观是新时代国家安全工作的基本遵循——概念解析与理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_393.json",
+      "type": "document",
+      "id": "doc_393",
+      "title": "总体国家安全观是新时代国家安全工作的基本遵循——实践意义与关联",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_394.json",
+      "type": "document",
+      "id": "doc_394",
+      "title": "新时代国家安全得到全面加强 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_395.json",
+      "type": "document",
+      "id": "doc_395",
+      "title": "新时代国家安全得到全面加强——概念解析与理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_396.json",
+      "type": "document",
+      "id": "doc_396",
+      "title": "新时代国家安全得到全面加强——实践意义与关联",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_397.json",
+      "type": "document",
+      "id": "doc_397",
+      "title": "统筹发展和安全 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_398.json",
+      "type": "document",
+      "id": "doc_398",
+      "title": "统筹发展和安全——概念解析与理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_399.json",
+      "type": "document",
+      "id": "doc_399",
+      "title": "统筹发展和安全——实践意义与关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_400.json",
+      "type": "document",
+      "id": "doc_400",
+      "title": "把维护政治安全放在首要位置 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_401.json",
+      "type": "document",
+      "id": "doc_401",
+      "title": "把维护政治安全放在首要位置——概念解析与理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_402.json",
+      "type": "document",
+      "id": "doc_402",
+      "title": "把维护政治安全放在首要位置——实践意义与关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_403.json",
+      "type": "document",
+      "id": "doc_403",
+      "title": "维护重点领域国家安全 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_404.json",
+      "type": "document",
+      "id": "doc_404",
+      "title": "维护重点领域国家安全——概念解析与理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_405.json",
+      "type": "document",
+      "id": "doc_405",
+      "title": "维护重点领域国家安全——实践意义与关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_406.json",
+      "type": "document",
+      "id": "doc_406",
+      "title": "推进国家安全体系和能力现代化 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_407.json",
+      "type": "document",
+      "id": "doc_407",
+      "title": "推进国家安全体系和能力现代化——概念解析与理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_408.json",
+      "type": "document",
+      "id": "doc_408",
+      "title": "推进国家安全体系和能力现代化——实践意义与关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_409.json",
+      "type": "document",
+      "id": "doc_409",
+      "title": "建设更高水平的平安中国 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_410.json",
+      "type": "document",
+      "id": "doc_410",
+      "title": "建设更高水平的平安中国——概念解析与理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_411.json",
+      "type": "document",
+      "id": "doc_411",
+      "title": "建设更高水平的平安中国——实践意义与关联",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_412.json",
+      "type": "document",
+      "id": "doc_412",
+      "title": "提高防范化解重大风险能力 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_413.json",
+      "type": "document",
+      "id": "doc_413",
+      "title": "提高防范化解重大风险能力——概念解析与理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_414.json",
+      "type": "document",
+      "id": "doc_414",
+      "title": "提高防范化解重大风险能力——实践意义与关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_415.json",
+      "type": "document",
+      "id": "doc_415",
+      "title": "国防和军队建设是捍卫国家主权、安全、发展利益的坚强后盾 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_416.json",
+      "type": "document",
+      "id": "doc_416",
+      "title": "概念解析/理论背景：国防和军队建设的后盾地位",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性",
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_417.json",
+      "type": "document",
+      "id": "doc_417",
+      "title": "实践意义/关联：把硬核实力搞上去",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性",
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_418.json",
+      "type": "document",
+      "id": "doc_418",
+      "title": "新时代人民军队使命任务 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_419.json",
+      "type": "document",
+      "id": "doc_419",
+      "title": "概念解析/理论背景：四个战略支撑的使命定位",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_420.json",
+      "type": "document",
+      "id": "doc_420",
+      "title": "实践意义/关联：从枪杆子到走向世界的使命延伸",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性",
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_421.json",
+      "type": "document",
+      "id": "doc_421",
+      "title": "建设强大军队是接续奋斗的伟大事业 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_422.json",
+      "type": "document",
+      "id": "doc_422",
+      "title": "概念解析/理论背景：接续奋斗的强军事业",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_423.json",
+      "type": "document",
+      "id": "doc_423",
+      "title": "实践意义/关联：历史责任与我军的差距认知",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性",
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_424.json",
+      "type": "document",
+      "id": "doc_424",
+      "title": "强军目标的科学内涵 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_425.json",
+      "type": "document",
+      "id": "doc_425",
+      "title": "概念解析/理论背景：强军目标的三维结构",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_426.json",
+      "type": "document",
+      "id": "doc_426",
+      "title": "实践意义/关联：把握强军的关键抓手",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_427.json",
+      "type": "document",
+      "id": "doc_427",
+      "title": "全面推进国防和军队现代化的战略安排 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_428.json",
+      "type": "document",
+      "id": "doc_428",
+      "title": "概念解析/理论背景：三步走的战略安排",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_429.json",
+      "type": "document",
+      "id": "doc_429",
+      "title": "实践意义/关联：时间表与路线图的落地",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_430.json",
+      "type": "document",
+      "id": "doc_430",
+      "title": "坚持党对人民军队的绝对领导 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_431.json",
+      "type": "document",
+      "id": "doc_431",
+      "title": "概念解析/理论背景：党对军队的绝对领导",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_432.json",
+      "type": "document",
+      "id": "doc_432",
+      "title": "实践意义/关联：将军魂落到实处",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "引用合规"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_433.json",
+      "type": "document",
+      "id": "doc_433",
+      "title": "坚持政治建军、改革强军、科技强军、人才强军、依法治军 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_434.json",
+      "type": "document",
+      "id": "doc_434",
+      "title": "概念解析/理论背景：五大强军方略",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_435.json",
+      "type": "document",
+      "id": "doc_435",
+      "title": "实践意义/关联：为世界一流军队提供动力",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_436.json",
+      "type": "document",
+      "id": "doc_436",
+      "title": "全面加强练兵备战 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_437.json",
+      "type": "document",
+      "id": "doc_437",
+      "title": "概念解析/理论背景：全面加强练兵备战的要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_438.json",
+      "type": "document",
+      "id": "doc_438",
+      "title": "实践意义/关联：把打赢能力落到实处",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_439.json",
+      "type": "document",
+      "id": "doc_439",
+      "title": "巩固提高一体化国家战略体系和能力 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_440.json",
+      "type": "document",
+      "id": "doc_440",
+      "title": "概念解析/理论背景：一体化国家战略体系",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_441.json",
+      "type": "document",
+      "id": "doc_441",
+      "title": "实践意义/关联：富国与强军的统一",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_442.json",
+      "type": "document",
+      "id": "doc_442",
+      "title": "\"一国两制\"是中国特色社会主义的伟大创举 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_443.json",
+      "type": "document",
+      "id": "doc_443",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_444.json",
+      "type": "document",
+      "id": "doc_444",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_445.json",
+      "type": "document",
+      "id": "doc_445",
+      "title": "准确把握\\",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_446.json",
+      "type": "document",
+      "id": "doc_446",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_447.json",
+      "type": "document",
+      "id": "doc_447",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_448.json",
+      "type": "document",
+      "id": "doc_448",
+      "title": "坚持和完善\"一国两制\"制度体系 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_449.json",
+      "type": "document",
+      "id": "doc_449",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_450.json",
+      "type": "document",
+      "id": "doc_450",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_451.json",
+      "type": "document",
+      "id": "doc_451",
+      "title": "香港、澳门保持长期稳定发展良好态势 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_452.json",
+      "type": "document",
+      "id": "doc_452",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_453.json",
+      "type": "document",
+      "id": "doc_453",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_454.json",
+      "type": "document",
+      "id": "doc_454",
+      "title": "推动香港进入由乱到治走向由治及兴的新阶段 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_455.json",
+      "type": "document",
+      "id": "doc_455",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_456.json",
+      "type": "document",
+      "id": "doc_456",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_457.json",
+      "type": "document",
+      "id": "doc_457",
+      "title": "支持香港、澳门融入国家发展大局 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_458.json",
+      "type": "document",
+      "id": "doc_458",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_459.json",
+      "type": "document",
+      "id": "doc_459",
+      "title": "实践意义/关联",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "表述规范性"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_460.json",
+      "type": "document",
+      "id": "doc_460",
+      "title": "实现祖国完全统一是中华民族伟大复兴的必然要求 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_461.json",
+      "type": "document",
+      "id": "doc_461",
+      "title": "概念解析/理论背景",
+      "decision": "fail",
+      "decision_label": "不通过",
+      "failed_dimensions": [
+        "准确性"
+      ],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_462.json",
+      "type": "document",
+      "id": "doc_462",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_463.json",
+      "type": "document",
+      "id": "doc_463",
+      "title": "坚持贯彻新时代党解决台湾问题的总体方略 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_464.json",
+      "type": "document",
+      "id": "doc_464",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_465.json",
+      "type": "document",
+      "id": "doc_465",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_466.json",
+      "type": "document",
+      "id": "doc_466",
+      "title": "牢牢把握两岸关系主导权和主动权 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_467.json",
+      "type": "document",
+      "id": "doc_467",
+      "title": "概念解析/理论背景",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_468.json",
+      "type": "document",
+      "id": "doc_468",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_469.json",
+      "type": "document",
+      "id": "doc_469",
+      "title": "当今世界正经历百年未有之大变局 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_470.json",
+      "type": "document",
+      "id": "doc_470",
+      "title": "概念解析/理论背景 | 当今世界正经历百年未有之大变局",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_471.json",
+      "type": "document",
+      "id": "doc_471",
+      "title": "实践意义/关联",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    },
+    {
+      "file": "doc_472.json",
+      "type": "document",
+      "id": "doc_472",
+      "title": "中国必须有自己特色的大国外交 · 原文要义",
+      "decision": "pass",
+      "decision_label": "通过",
+      "failed_dimensions": [],
+      "reviewed_at": "2026/8/17 18:57:50"
+    }
+  ]
+}
+</KB_REVIEW_DATA>

@@ -49,14 +49,14 @@
   "importance": 5,
   "keywords": [
     "最大威胁",
-    "政治队伍",
+    "自我革命",
     "人心向背",
     "执政基础",
     "先进性纯洁性"
   ],
   "name": "腐败是党长期执政面临的最大威胁",
   "pictures": [],
-  "revision": 3,
+  "revision": 4,
   "schema_version": "1.0",
   "status": "draft",
   "tags": [
@@ -90,5 +90,5 @@
       "test_id": "test_1597"
     }
   ],
-  "updated_at": "2026-08-15T16:18:49Z"
+  "updated_at": "2026-08-18T16:20:39Z"
 }
